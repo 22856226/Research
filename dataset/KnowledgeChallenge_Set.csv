@@ -1,0 +1,659 @@
+Source,Target,Result
+DLS C1-C2,R C2 Radikulopati,True
+L C2 Radikulopati,L Nackbesvär,True
+L C2 Radikulopati,Nackbesvär,True
+L C2 Radikulopati,Huvudvärk,True
+L C2 Radikulopati,L Käkbesvär,True
+L C2 Radikulopati,Munbesvär,True
+L C2 Radikulopati,Pannhuvudvärk,True
+L C2 Radikulopati,Svalgbesvär,True
+R C2 Radikulopati,Nackbesvär,True
+R C2 Radikulopati,R Nackbesvär,True
+R C2 Radikulopati,R Ögonbesvär,True
+R C2 Radikulopati,R Öronbesvär,True
+R C2 Radikulopati,Huvudvärk,True
+R C2 Radikulopati,Munbesvär,True
+R C2 Radikulopati,Pannhuvudvärk,True
+R C2 Radikulopati,R Pannhuvudvärk,True
+R C2 Radikulopati,Svalgbesvär,True
+R C2 Radikulopati,R Käkbesvär,True
+DLS C2-C3,L C3 Radikulopati,True
+DLS C2-C3,R C3 Radikulopati,True
+L C3 Radikulopati,Nackbesvär,True
+L C3 Radikulopati,Munbesvär,True
+L C3 Radikulopati,Pannhuvudvärk,True
+L C3 Radikulopati,Svalgbesvär,True
+L C3 Radikulopati,Bakhuvudvärk,True
+L C3 Radikulopati,L Central bröstsmärta,True
+R C3 Radikulopati,Nackbesvär,True
+R C3 Radikulopati,R Nackbesvär,True
+R C3 Radikulopati,Munbesvär,True
+R C3 Radikulopati,Pannhuvudvärk,True
+R C3 Radikulopati,R Pannhuvudvärk,True
+R C3 Radikulopati,Svalgbesvär,True
+R C3 Radikulopati,R Käkbesvär,True
+R C3 Radikulopati,Bakhuvudvärk,True
+R C3 Radikulopati,R Bakhuvudvärk,True
+R C3 Radikulopati,R Nyckelbensbesvär,True
+R C3 Radikulopati,Central bröstsmärta,True
+DLS C3-C4,L C4 Radikulopati,True
+DLS C3-C4,R C4 Radikulopati,True
+L C4 Radikulopati,L Nackbesvär,True
+L C4 Radikulopati,Nackbesvär,True
+L C4 Radikulopati,L Nyckelbensbesvär,True
+L C4 Radikulopati,L Central bröstsmärta,True
+L C4 Radikulopati,L Axelbesvär,True
+L C4 Radikulopati,L Skulderbesvär,True
+R C4 Radikulopati,Nackbesvär,True
+R C4 Radikulopati,R Nackbesvär,True
+R C4 Radikulopati,R Nyckelbensbesvär,True
+R C4 Radikulopati,Central bröstsmärta,True
+R C4 Radikulopati,R Främre Axelbesvär,True
+R C4 Radikulopati,R Axel impingement,True
+R C4 Radikulopati,R Axelbesvär,True
+R C4 Radikulopati,R Skulderbesvär,True
+DLS C4-C5,L C5 Radikulopati,True
+DLS C4-C5,R C5 Radikulopati,True
+L C5 Radikulopati,Nackbesvär,True
+L C5 Radikulopati,L Skulderbesvär,True
+L C5 Radikulopati,Interskapulära besvär,True
+L C5 Radikulopati,L Interskapulära besvär,True
+R C5 Radikulopati,Nackbesvär,True
+R C5 Radikulopati,R Nackbesvär,True
+R C5 Radikulopati,R Främre Axelbesvär,True
+R C5 Radikulopati,R Axel impingement,True
+R C5 Radikulopati,R Axelbesvär,True
+R C5 Radikulopati,R Skulderbesvär,True
+R C5 Radikulopati,Interskapulära besvär,True
+R C5 Radikulopati,R Interskapulära besvär,True
+R C5 Radikulopati,R Laterala armbågsbesvär,True
+R C5 Radikulopati,R Armbågsbesvär,True
+DLS C5-C6,L C6 Radikulopati,True
+DLS C5-C6,R C6 Radikulopati,True
+L C6 Radikulopati,L Nackbesvär,True
+L C6 Radikulopati,Nackbesvär,True
+L C6 Radikulopati,L Axelbesvär,True
+L C6 Radikulopati,L Skulderbesvär,True
+L C6 Radikulopati,Interskapulära besvär,True
+L C6 Radikulopati,L Interskapulära besvär,True
+L C6 Radikulopati,L Laterala armbågsbesvär,True
+L C6 Radikulopati,L Tumbesvär,True
+L C6 Radikulopati,L Handledsbesvär,True
+R C6 Radikulopati,Nackbesvär,True
+R C6 Radikulopati,R Nackbesvär,True
+R C6 Radikulopati,R Främre Axelbesvär,True
+R C6 Radikulopati,R Axel impingement,True
+R C6 Radikulopati,R Axelbesvär,True
+R C6 Radikulopati,R Skulderbesvär,True
+R C6 Radikulopati,Interskapulära besvär,True
+R C6 Radikulopati,R Interskapulära besvär,True
+R C6 Radikulopati,R Laterala armbågsbesvär,True
+R C6 Radikulopati,R Armbågsbesvär,True
+R C6 Radikulopati,R Tumbesvär,True
+R C6 Radikulopati,R Handledsbesvär,True
+R C6 Radikulopati,R Under armsbesvär,True
+R C6 Radikulopati,R Handbesvär,True
+R C6 Radikulopati,R Armbesvär,True
+R C6 Radikulopati,R Armvecksbesvär,True
+DLS C6-C7,L C7 Radikulopati,True
+DLS C6-C7,R C7 Radikulopati,True
+L C7 Radikulopati,L Nackbesvär,True
+L C7 Radikulopati,Nackbesvär,True
+L C7 Radikulopati,L Skulderbesvär,True
+R C7 Radikulopati,Nackbesvär,True
+R C7 Radikulopati,R Nackbesvär,True
+R C7 Radikulopati,R Axelbesvär,True
+R C7 Radikulopati,R Skulderbesvär,True
+R C7 Radikulopati,R Armbågsbesvär,True
+R C7 Radikulopati,R Handledsbesvär,True
+R C7 Radikulopati,R Under armsbesvär,True
+R C7 Radikulopati,R Handbesvär,True
+R C7 Radikulopati,R Armbesvär,True
+R C7 Radikulopati,R Armvecksbesvär,True
+R C7 Radikulopati,R Mediala armbågsbesvär,True
+R C7 Radikulopati,R Fingerbesvär,True
+DLS C7-C8,L C8 Radikulopati,True
+DLS C7-C8,R C8 Radikulopati,True
+L C8 Radikulopati,L Axelbesvär,True
+L C8 Radikulopati,L Skulderbesvär,True
+R C8 Radikulopati,R Axelbesvär,True
+R C8 Radikulopati,R Skulderbesvär,True
+R C8 Radikulopati,R Armbågsbesvär,True
+R C8 Radikulopati,R Under armsbesvär,True
+R C8 Radikulopati,R Handbesvär,True
+R C8 Radikulopati,R Armbesvär,True
+R C8 Radikulopati,R Armvecksbesvär,True
+R C8 Radikulopati,R Mediala armbågsbesvär,True
+R C8 Radikulopati,R Fingerbesvär,True
+R C8 Radikulopati,R Lillfingerbesvär,True
+DLS C8-T1,L T1 Radikulopati,True
+DLS C8-T1,R T1 Radikulopati,True
+R T1 Radikulopati,R Armbesvär,True
+R T1 Radikulopati,R Armvecksbesvär,True
+R T1 Radikulopati,Bröstryggsbesvär,True
+DLS T1-T2,L T2 Radikulopati,True
+DLS T1-T2,R T2 Radikulopati,True
+R T2 Radikulopati,Bröstryggsbesvär,True
+DLS T2-T3,L T3 Radikulopati,True
+DLS T2-T3,R T3 Radikulopati,True
+L T3 Radikulopati,Bröstryggsbesvär,True
+L T3 Radikulopati,Bröstbesvär,True
+L T3 Radikulopati,Torakal Dysfunktion,True
+R T3 Radikulopati,Bröstryggsbesvär,True
+R T3 Radikulopati,Bröstbesvär,True
+R T3 Radikulopati,R Bröstbesvär,True
+R T3 Radikulopati,Torakal Dysfunktion,True
+DLS T3-T4,L T4 Radikulopati,True
+DLS T3-T4,R T4 Radikulopati,True
+L T4 Radikulopati,Bröstryggsbesvär,True
+L T4 Radikulopati,Bröstbesvär,True
+L T4 Radikulopati,L Bröstbesvär,True
+L T4 Radikulopati,Torakal Dysfunktion,True
+R T4 Radikulopati,Bröstryggsbesvär,True
+R T4 Radikulopati,Bröstbesvär,True
+R T4 Radikulopati,R Bröstbesvär,True
+R T4 Radikulopati,Torakal Dysfunktion,True
+DLS T4-T5,L T5 Radikulopati,True
+DLS T4-T5,R T5 Radikulopati,True
+L T5 Radikulopati,Bröstbesvär,True
+L T5 Radikulopati,L Bröstbesvär,True
+R T5 Radikulopati,Bröstryggsbesvär,True
+R T5 Radikulopati,Bröstbesvär,True
+R T5 Radikulopati,R Bröstbesvär,True
+R T5 Radikulopati,Torakal Dysfunktion,True
+DLS T5-T6,L T6 Radikulopati,True
+DLS T5-T6,R T6 Radikulopati,True
+L T6 Radikulopati,Bröstryggsbesvär,True
+L T6 Radikulopati,Torakal Dysfunktion,True
+L T6 Radikulopati,Övre bukbesvär,True
+L T6 Radikulopati,Laterala bukbesvär,True
+R T6 Radikulopati,Bröstryggsbesvär,True
+R T6 Radikulopati,Torakal Dysfunktion,True
+R T6 Radikulopati,Övre bukbesvär,True
+DLS T6-T7,L T7 Radikulopati,True
+DLS T6-T7,R T7 Radikulopati,True
+L T7 Radikulopati,Bröstryggsbesvär,True
+L T7 Radikulopati,Torakal Dysfunktion,True
+L T7 Radikulopati,Övre bukbesvär,True
+L T7 Radikulopati,Laterala bukbesvär,True
+L T7 Radikulopati,Bukbesvär,True
+R T7 Radikulopati,Bröstryggsbesvär,True
+R T7 Radikulopati,Torakal Dysfunktion,True
+R T7 Radikulopati,Övre bukbesvär,True
+DLS T7-T8,L T8 Radikulopati,True
+DLS T7-T8,R T8 Radikulopati,True
+L T8 Radikulopati,Bröstryggsbesvär,True
+L T8 Radikulopati,Övre bukbesvär,True
+L T8 Radikulopati,Laterala bukbesvär,True
+R T8 Radikulopati,Bröstryggsbesvär,True
+R T8 Radikulopati,Övre bukbesvär,True
+DLS T8-T9,L T9 Radikulopati,True
+DLS T8-T9,R T9 Radikulopati,True
+L T9 Radikulopati,Laterala bukbesvär,True
+L T9 Radikulopati,L Nedre bukbesvär,True
+L T9 Radikulopati,Nedre bukbesvär,True
+R T9 Radikulopati,Bröstryggsbesvär,True
+R T9 Radikulopati,Nedre bukbesvär,True
+DLS T9-T10,L T10 Radikulopati,True
+DLS T9-T10,R T10 Radikulopati,True
+L T10 Radikulopati,Laterala bukbesvär,True
+L T10 Radikulopati,L Nedre bukbesvär,True
+L T10 Radikulopati,Nedre bukbesvär,True
+R T10 Radikulopati,Bröstryggsbesvär,True
+R T10 Radikulopati,Nedre bukbesvär,True
+DLS T10-T11,L T11 Radikulopati,True
+DLS T10-T11,R T11 Radikulopati,True
+L T11 Radikulopati,Laterala bukbesvär,True
+L T11 Radikulopati,Bukbesvär,True
+L T11 Radikulopati,L Nedre bukbesvär,True
+L T11 Radikulopati,Nedre bukbesvär,True
+R T11 Radikulopati,Nedre bukbesvär,True
+DLS T11-T12,L T12 Radikulopati,True
+DLS T11-T12,R T12 Radikulopati,True
+L T12 Radikulopati,Laterala bukbesvär,True
+L T12 Radikulopati,Bukbesvär,True
+L T12 Radikulopati,L Nedre bukbesvär,True
+L T12 Radikulopati,Nedre bukbesvär,True
+R T12 Radikulopati,Bukbesvär,True
+R T12 Radikulopati,Nedre bukbesvär,True
+DLS T12-L1,L L1 Radikulopati,True
+DLS T12-L1,R L1 Radikulopati,True
+L L1 Radikulopati,L Ljumskbesvär,True
+L L1 Radikulopati,L Mediala ljumskbesvär,True
+L L1 Radikulopati,L Laterala ljumskbesvär,True
+L L1 Radikulopati,Centrala Ljumskbesvär,True
+L L1 Radikulopati,L Adduktortendalgi,True
+L L1 Radikulopati,Laterala bukbesvär,True
+L L1 Radikulopati,L Nedre bukbesvär,True
+L L1 Radikulopati,Nedre bukbesvär,True
+R L1 Radikulopati,Centrala Ljumskbesvär,True
+R L1 Radikulopati,R Laterala ljumskbesvär,True
+R L1 Radikulopati,R Ljumskbesvär,True
+R L1 Radikulopati,R Adduktortendalgi,True
+R L1 Radikulopati,Bukbesvär,True
+DLS L1-L2,L L2 Radikulopati,True
+DLS L1-L2,R L2 Radikulopati,True
+L L2 Radikulopati,L Ljumskbesvär,True
+L L2 Radikulopati,L Mediala ljumskbesvär,True
+L L2 Radikulopati,L Laterala ljumskbesvär,True
+L L2 Radikulopati,Centrala Ljumskbesvär,True
+L L2 Radikulopati,L Adduktortendalgi,True
+L L2 Radikulopati,L Höftbesvär,True
+L L2 Radikulopati,L Lumbago,True
+L L2 Radikulopati,Lumbago,True
+L L2 Radikulopati,Laterala bukbesvär,True
+L L2 Radikulopati,L Nedre bukbesvär,True
+L L2 Radikulopati,Nedre bukbesvär,True
+R L2 Radikulopati,Centrala Ljumskbesvär,True
+R L2 Radikulopati,R Laterala ljumskbesvär,True
+R L2 Radikulopati,R Ljumskbesvär,True
+R L2 Radikulopati,R Adduktortendalgi,True
+R L2 Radikulopati,Ryggsbesvär,True
+R L2 Radikulopati,R Lumbago,True
+R L2 Radikulopati,Nedre bukbesvär,True
+DLS L2-L3,L L3 Radikulopati,True
+DLS L2-L3,R L3 Radikulopati,True
+L L3 Radikulopati,L Höftbesvär,True
+L L3 Radikulopati,L Lumbago,True
+L L3 Radikulopati,Lumbago,True
+L L3 Radikulopati,L Främre lårbesvär,True
+L L3 Radikulopati,L Benbesvär,True
+L L3 Radikulopati,L Lårbesvär,True
+R L3 Radikulopati,Ryggsbesvär,True
+R L3 Radikulopati,R Lumbago,True
+R L3 Radikulopati,R Främre lårbesvär,True
+R L3 Radikulopati,R Lårbesvär,True
+R L3 Radikulopati,R Benbesvär,True
+DLS L3-L4,L L4 Radikulopati,True
+DLS L3-L4,R L4 Radikulopati,True
+L L4 Radikulopati,L Lumbago,True
+L L4 Radikulopati,Lumbago,True
+L L4 Radikulopati,L Främre lårbesvär,True
+L L4 Radikulopati,L Benbesvär,True
+L L4 Radikulopati,L Lårbesvär,True
+L L4 Radikulopati,L PFS,True
+L L4 Radikulopati,L Höftkamsbesvär,True
+L L4 Radikulopati,L Mediala knäledsbesvär,True
+L L4 Radikulopati,L Laterala vadbesvär,True
+L L4 Radikulopati,L Knäbesvär,True
+R L4 Radikulopati,R PFS,True
+R L4 Radikulopati,Ryggsbesvär,True
+R L4 Radikulopati,R Lumbago,True
+R L4 Radikulopati,R Främre lårbesvär,True
+R L4 Radikulopati,R Lårbesvär,True
+R L4 Radikulopati,R Benbesvär,True
+R L4 Radikulopati,R Mediala vadbesvär,True
+R L4 Radikulopati,R Höftbesvär,True
+R L4 Radikulopati,R Höftkamsbesvär,True
+R L4 Radikulopati,R Mediala knäledsbesvär,True
+R L4 Radikulopati,R Tibiaperialgi,True
+R L4 Radikulopati,R Knäbesvär,True
+DLS L4-L5,L L5 Radikulopati,True
+DLS L4-L5,R L5 Radikulopati,True
+L L5 Radikulopati,L Lumbago,True
+L L5 Radikulopati,Lumbago,True
+L L5 Radikulopati,L Benbesvär,True
+L L5 Radikulopati,L Lårbesvär,True
+L L5 Radikulopati,L PFS,True
+L L5 Radikulopati,L Höftkamsbesvär,True
+L L5 Radikulopati,L Mediala knäledsbesvär,True
+L L5 Radikulopati,L Laterala vadbesvär,True
+L L5 Radikulopati,L Knäbesvär,True
+L L5 Radikulopati,L Tåledbesvär,True
+L L5 Radikulopati,L Stortårbesvär,True
+L L5 Radikulopati,L Fotbesvär,True
+L L5 Radikulopati,L Fotledsbesvär,True
+L L5 Radikulopati,L Fotvalvsbesvär,True
+L L5 Radikulopati,L Ischias,True
+L L5 Radikulopati,L Skinkbesvär,True
+L L5 Radikulopati,L Vadbesvär,True
+R L5 Radikulopati,R PFS,True
+R L5 Radikulopati,Ryggsbesvär,True
+R L5 Radikulopati,R Lumbago,True
+R L5 Radikulopati,R Lårbesvär,True
+R L5 Radikulopati,R Benbesvär,True
+R L5 Radikulopati,R Höftbesvär,True
+R L5 Radikulopati,R Höftkamsbesvär,True
+R L5 Radikulopati,R Mediala knäledsbesvär,True
+R L5 Radikulopati,R Främre knäbesvär,True
+R L5 Radikulopati,R Tibiaperialgi,True
+R L5 Radikulopati,R Knäbesvär,True
+R L5 Radikulopati,R Stortårbesvär,True
+R L5 Radikulopati,R Fotledsbesvär,True
+R L5 Radikulopati,R Fotvalvsbesvär,True
+R L5 Radikulopati,R Tåledbesvär,True
+R L5 Radikulopati,R Ischias,True
+R L5 Radikulopati,R Skinkbesvär,True
+R L5 Radikulopati,R Fotbesvär,True
+R L5 Radikulopati,R Vadbesvär,True
+DLS L5-S1,L S1 Radikulopati,True
+DLS L5-S1,R S1 Radikulopati,True
+L S1 Radikulopati,L Lumbago,True
+L S1 Radikulopati,Lumbago,True
+L S1 Radikulopati,L Benbesvär,True
+L S1 Radikulopati,L Lårbesvär,True
+L S1 Radikulopati,L Laterala vadbesvär,True
+L S1 Radikulopati,L Knäbesvär,True
+L S1 Radikulopati,L Ischias,True
+L S1 Radikulopati,L Skinkbesvär,True
+L S1 Radikulopati,L Vadbesvär,True
+L S1 Radikulopati,L Dorsala knäledsbesvär,True
+L S1 Radikulopati,L Laterala knäbesvär,True
+L S1 Radikulopati,L Lilltåbesvär,True
+L S1 Radikulopati,L Laterala Fotbesvär,True
+L S1 Radikulopati,Hälbesvär,True
+L S1 Radikulopati,L Hälbesvär,True
+L S1 Radikulopati,L Bakre lårbesvär,True
+L S1 Radikulopati,L Achillesbesvär,True
+L S1 Radikulopati,L Achillestendalgi,True
+L S1 Radikulopati,L Achillodyni,True
+R S1 Radikulopati,R Adduktortendalgi,True
+R S1 Radikulopati,Ryggsbesvär,True
+R S1 Radikulopati,R Lumbago,True
+R S1 Radikulopati,R Lårbesvär,True
+R S1 Radikulopati,R Benbesvär,True
+R S1 Radikulopati,R Knäbesvär,True
+R S1 Radikulopati,R Ischias,True
+R S1 Radikulopati,R Skinkbesvär,True
+R S1 Radikulopati,R Fotbesvär,True
+R S1 Radikulopati,R Tårbesvär,True
+R S1 Radikulopati,R Vadbesvär,True
+R S1 Radikulopati,R Dorsala knäledsbesvär,True
+R S1 Radikulopati,R Laterala knäbesvär,True
+R S1 Radikulopati,R Laterala Fotbesvär,True
+R S1 Radikulopati,R Hälbesvär,True
+R S1 Radikulopati,Hälbesvär,True
+R S1 Radikulopati,R Bakre lårbesvär,True
+R S1 Radikulopati,R Achillesbesvär,True
+R S1 Radikulopati,R Achillestendalgi,True
+R S1 Radikulopati,R Achillodyni,True
+DLS S1-S2,L S2 Radikulopati,True
+DLS S1-S2,R S2 Radikulopati,True
+L S2 Radikulopati,L Adduktortendalgi,True
+L S2 Radikulopati,L Ischias,True
+R S2 Radikulopati,R Adduktortendalgi,True
+R S2 Radikulopati,R Ischias,True
+Kraniocervikal ledskada,L C2 Radikulopati,True
+Kraniocervikal ledskada,L C4 Radikulopati,True
+Kraniocervikal ledskada,R C2 Radikulopati,True
+Kraniocervikal ledskada,R C3 Radikulopati,True
+Kraniocervikal ledskada,R C4 Radikulopati,True
+Bukbesvär,L L4 Radikulopati,False
+R Adduktortendalgi,L Fotledsbesvär,False
+R Tibiaperialgi,DLS C1-C2,False
+L Achillesbesvär,L Lumbago,False
+R Fotledsbesvär,L T12 Radikulopati,False
+R Mortonbesvär,R Laterala knäbesvär,False
+IBS,R Interskapulära besvär,False
+DLS C7-C8,R S2 Radikulopati,False
+R Mortonbesvär,DLS T3-T4,False
+L Tinnitus,L Lumbago,False
+L C5 Radikulopati,L Central bröstsmärta,False
+DLS T8-T9,R Handbesvär,False
+R Handledsbesvär,R S2 Radikulopati,False
+DLS C3-C4,L Skinkbesvär,False
+R T1 Radikulopati,DLS T4-T5,False
+L Bröstbesvär,R Tibiaperialgi,False
+L Handledsbesvär,L Benbesvär,False
+R T4 Radikulopati,L Tåledbesvär,False
+L T7 Radikulopati,Bakhuvudvärk,False
+R Laterala armbågsbesvär,R T4 Radikulopati,False
+DLS T3-T4,R Öronbesvär,False
+Ryggsbesvär,L Tibiaperialgi,False
+R Bakre lårbesvär,R Nackbesvär,False
+DLS T8-T9,L Tårbesvär,False
+L Pannhuvudvärk,R Fotbesvär,False
+R PFS,DLS C6-C7,False
+R Benbesvär,Central bröstsmärta,False
+L C5 Radikulopati,R Ischias,False
+R Handbesvär,R S1 Radikulopati,False
+L T11 Radikulopati,DLS C7-C8,False
+L Adduktortendalgi,L Fingerbesvär,False
+R Mediala vadbesvär,DLS T5-T6,False
+R Främre lårbesvär,DLS C6-C7,False
+L Tåledbesvär,L Fotbesvär,False
+L Ljumskbesvär,L Övre armbågsbesvär,False
+DLS C2-C3,L Fotbesvär,False
+L Stortårbesvär,DLS L4-L5,False
+R Achillodyni,L T1 Radikulopati,False
+R C2 Radikulopati,L Fotbesvär,False
+R Laterala knäbesvär,L Laterala armbågsbesvär,False
+R T6 Radikulopati,R T9 Radikulopati,False
+DLS T7-T8,DLS L4-L5,False
+R L2 Radikulopati,DLS C4-C5,False
+DLS T8-T9,L T11 Radikulopati,False
+DLS T11-T12,L Axelbesvär,False
+L T8 Radikulopati,L Pannhuvudvärk,False
+DLS L2-L3,R Fingerbesvär,False
+DLS L1-L2,L Laterala vadbesvär,False
+R Skinkbesvär,L Lilltåbesvär,False
+R Främre Axelbesvär,R C2 Radikulopati,False
+R Främre lårbesvär,L Fotbesvär,False
+L Tinnitus,R Tåledbesvär,False
+Pannhuvudvärk,R Öronbesvär,False
+L T3 Radikulopati,L Handledsbesvär,False
+R Armbågsbesvär,L Övre armsbesvär,False
+R Främre Axelbesvär,L S1 Radikulopati,False
+Kraniocervikal ledskada,R Laterala Fotbesvär,False
+L Interskapulära besvär,DLS T9-T10,False
+DLS C3-C4,DLS C1-C2,False
+L Hälbesvär,Torakal Dysfunktion,False
+R Skinkbesvär,L T2 Radikulopati,False
+R Nyckelbensbesvär,R Dorsala knäledsbesvär,False
+L Armbågsbesvär,R S1 Radikulopati,False
+R S2 Radikulopati,L L1 Radikulopati,False
+L C7 Radikulopati,L Nyckelbensbesvär,False
+R Käkbesvär,L Interskapulära besvär,False
+DLS L5-S1,R T4 Radikulopati,False
+Hälbesvär,L T10 Radikulopati,False
+L S2 Radikulopati,R C6 Radikulopati,False
+L Främre lårbesvär,R Främre knäbesvär,False
+R Lårbesvär,DLS L5-S1,False
+R T3 Radikulopati,L Achillesbesvär,False
+L C2 Radikulopati,L Axelbesvär,False
+L Under armsbesvär,L T6 Radikulopati,False
+Munbesvär,L S2 Radikulopati,False
+L T5 Radikulopati,R Tåledbesvär,False
+DLS C4-C5,DLS T10-T11,False
+L Centrala bröstbesvär,R C3 Radikulopati,False
+Centrala Ljumskbesvär,Huvudvärk,False
+L Lårbesvär,R Tåledbesvär,False
+L Bröstbesvär,R C6 Radikulopati,False
+R Laterala knäbesvär,L Övre armbågsbesvär,False
+L L5 Radikulopati,R L5 Radikulopati,False
+L Främre lårbesvär,Pannhuvudvärk,False
+L Övre armbågsbesvär,R Mediala armbågsbesvär,False
+L Armbågsbesvär,Interskapulära besvär,False
+L Tibiaperialgi,R Höftkamsbesvär,False
+L Fingerbesvär,Bröstryggsbesvär,False
+L Skulderbesvär,L Tåledbesvär,False
+R T2 Radikulopati,L Central bröstsmärta,False
+R L5 Radikulopati,L Lilltåbesvär,False
+L Främre knäbesvär,R Laterala armbågsbesvär,False
+L L3 Radikulopati,DLS S1-S2,False
+L Fotledsbesvär,R S2 Radikulopati,False
+Bröstbesvär,R Dorsala knäledsbesvär,False
+IBS,Coccydyni,False
+L Achillodyni,L PFS,False
+R Hälbesvär,DLS T8-T9,False
+R Nyckelbensbesvär,R Tårbesvär,False
+DLS T1-T2,L Ischias,False
+R Benbesvär,R Vadbesvär,False
+L Axelbesvär,L Stortårbesvär,False
+R PFS,R T8 Radikulopati,False
+DLS T3-T4,L Skinkbesvär,False
+R C2 Radikulopati,L Laterala vadbesvär,False
+R Tinnitus,R Vadbesvär,False
+L Interskapulära besvär,Nackbesvär,False
+DLS T11-T12,L Skinkbesvär,False
+DLS T2-T3,R Bröstbesvär,False
+R Handbesvär,L Ljumskbesvär,False
+L Bakhuvudvärk,R Käkbesvär,False
+R Fotledsbesvär,R T6 Radikulopati,False
+R C4 Radikulopati,L C8 Radikulopati,False
+R Handledsbesvär,R Fotledsbesvär,False
+DLS T7-T8,DLS C1-C2,False
+R Lillfingerbesvär,L Vadbesvär,False
+L Nyckelbensbesvär,L Stortårbesvär,False
+R T8 Radikulopati,L Pannhuvudvärk,False
+L Höftbesvär,L Nedre bukbesvär,False
+L Tibiaperialgi,Centrala Ljumskbesvär,False
+R C8 Radikulopati,R T8 Radikulopati,False
+R Achillestendalgi,R Fingerbesvär,False
+L Hälbesvär,L L5 Radikulopati,False
+L Fotvalvsbesvär,DLS C7-C8,False
+R Tåledbesvär,DLS T3-T4,False
+L Främre lårbesvär,L Nyckelbensbesvär,False
+R Achillodyni,L Lillfingerbesvär,False
+R L5 Radikulopati,R Käkbesvär,False
+Bakhuvudvärk,R Axel impingement,False
+L T6 Radikulopati,DLS C7-C8,False
+R L2 Radikulopati,DLS T11-T12,False
+R T7 Radikulopati,L C2 Radikulopati,False
+R Pannhuvudvärk,R T9 Radikulopati,False
+R Käkbesvär,DLS S1-S2,False
+L Fotvalvsbesvär,DLS T6-T7,False
+R Bröstbesvär,Hälbesvär,False
+R Pannhuvudvärk,DLS T6-T7,False
+L Nedre bukbesvär,L Handbesvär,False
+DLS C1-C2,R T10 Radikulopati,False
+R Achillodyni,L C5 Radikulopati,False
+R C6 Radikulopati,R Tåledbesvär,False
+DLS T7-T8,R Fotvalvsbesvär,False
+DLS C1-C2,R Mediala vadbesvär,False
+L Knäbesvär,R Achillestendalgi,False
+R C5 Radikulopati,R Lumbago,False
+R Armbesvär,L Skulderbesvär,False
+L Fingerbesvär,L Adduktortendalgi,False
+L Ljumskbesvär,L Ischias,False
+L Skulderbesvär,Nackbesvär,False
+R C3 Radikulopati,L L5 Radikulopati,False
+DLS L1-L2,R T11 Radikulopati,False
+R Lårbesvär,Övre bukbesvär,False
+L C8 Radikulopati,R C6 Radikulopati,False
+L L3 Radikulopati,L Skulderbesvär,False
+L Achillestendalgi,L Central bröstsmärta,False
+R Bakre lårbesvär,R Käkbesvär,False
+R Achillesbesvär,Pannhuvudvärk,False
+Coccydyni,L PFS,False
+L Nedre bukbesvär,R Under armsbesvär,False
+R L5 Radikulopati,R C8 Radikulopati,False
+R Öronbesvär,R Stortårbesvär,False
+R Skinkbesvär,R Mediala armbågsbesvär,False
+L Fotbesvär,R T2 Radikulopati,False
+L L2 Radikulopati,R L3 Radikulopati,False
+DLS L2-L3,R T6 Radikulopati,False
+R Lillfingerbesvär,R C5 Radikulopati,False
+L T3 Radikulopati,R L2 Radikulopati,False
+R Laterala knäbesvär,L Vadbesvär,False
+L Lumbago,L Ischias,False
+R Armbesvär,R Achillesbesvär,False
+L Pannhuvudvärk,R Adduktortendalgi,False
+L L3 Radikulopati,L T1 Radikulopati,False
+DLS C4-C5,L Övre armbågsbesvär,False
+R Laterala armbågsbesvär,R Under armsbesvär,False
+R Tumbesvär,DLS T11-T12,False
+L Skinkbesvär,L Tårbesvär,False
+L Achillesbesvär,R Främre knäbesvär,False
+R Laterala knäbesvär,L L1 Radikulopati,False
+R C5 Radikulopati,L Främre knäbesvär,False
+L Armvecksbesvär,R Pannhuvudvärk,False
+Munbesvär,R Tinnitus,False
+R Axelbesvär,L Centrala bröstbesvär,False
+R T1 Radikulopati,L Käkbesvär,False
+Centrala Ljumskbesvär,IBS,False
+L Armvecksbesvär,R Tinnitus,False
+L C2 Radikulopati,L T9 Radikulopati,False
+R Ljumskbesvär,Lumbago,False
+DLS T10-T11,L Främre lårbesvär,False
+DLS T11-T12,L S2 Radikulopati,False
+L Central bröstsmärta,R C4 Radikulopati,False
+L L3 Radikulopati,R C8 Radikulopati,False
+R Handbesvär,R PFS,False
+L Ljumskbesvär,R Tåledbesvär,False
+L Handbesvär,L L5 Radikulopati,False
+L Benbesvär,L Fotbesvär,False
+L Tibiaperialgi,L Lårbesvär,False
+R Lårbesvär,Bröstbesvär,False
+R T4 Radikulopati,Kraniocervikal ledskada,False
+R T3 Radikulopati,L Ljumskbesvär,False
+R Främre knäbesvär,L Vadbesvär,False
+Coccydyni,R T12 Radikulopati,False
+L Nedre bukbesvär,R Lumbago,False
+R Ischias,R Knäbesvär,False
+R Främre lårbesvär,L Lilltåbesvär,False
+L Axelbesvär,DLS T11-T12,False
+R Skinkbesvär,L T7 Radikulopati,False
+L Nyckelbensbesvär,DLS S1-S2,False
+DLS T8-T9,R Öronbesvär,False
+L Axelbesvär,R Under armsbesvär,False
+L Hälbesvär,L Axelbesvär,False
+R T9 Radikulopati,L C6 Radikulopati,False
+R Knäbesvär,R Under armsbesvär,False
+DLS T9-T10,L Knäbesvär,False
+L Axel impingement,L Främre knäbesvär,False
+L C8 Radikulopati,L Käkbesvär,False
+R Stortårbesvär,L Under armsbesvär,False
+L PFS,DLS L1-L2,False
+L C7 Radikulopati,DLS T8-T9,False
+L Lumbago,L Handbesvär,False
+R T10 Radikulopati,L C4 Radikulopati,False
+R Pannhuvudvärk,DLS T4-T5,False
+L Höftkamsbesvär,L Fotbesvär,False
+L C7 Radikulopati,L Fotledsbesvär,False
+Övre bukbesvär,L Laterala Fotbesvär,False
+L T8 Radikulopati,L Armbesvär,False
+L S1 Radikulopati,DLS T11-T12,False
+R Axel impingement,L Skinkbesvär,False
+L T11 Radikulopati,DLS T8-T9,False
+L C3 Radikulopati,DLS C7-C8,False
+DLS T5-T6,R C2 Radikulopati,False
+L C4 Radikulopati,R Främre knäbesvär,False
+R Knäbesvär,L Laterala armsbesvär,False
+R Armvecksbesvär,R Tibiaperialgi,False
+L Laterala ljumskbesvär,L Armbesvär,False
+DLS C3-C4,L T7 Radikulopati,False
+L L5 Radikulopati,L Ögonbesvär,False
+L T12 Radikulopati,DLS L1-L2,False
+R Fingerbesvär,R T8 Radikulopati,False
+R Lårbesvär,DLS T10-T11,False
+R Tårbesvär,L T11 Radikulopati,False
+L Benbesvär,L Armbågsbesvär,False
+L Interskapulära besvär,R T1 Radikulopati,False
+R C4 Radikulopati,L Skinkbesvär,False
+L Laterala armsbesvär,L Fingerbesvär,False
+L T4 Radikulopati,R Tåledbesvär,False
+Lumbago,Huvudvärk,False
+Övre bukbesvär,R Knäbesvär,False
+L Interskapulära besvär,R Benbesvär,False
+R Interskapulära besvär,L Skinkbesvär,False
+L Dorsala knäledsbesvär,L Tårbesvär,False
+R Mortonbesvär,L Handledsbesvär,False
+R Dorsala knäledsbesvär,R Armbesvär,False
+R Axelbesvär,R Achillestendalgi,False
+Bakhuvudvärk,L Skinkbesvär,False
+R Laterala armbågsbesvär,L Lilltåbesvär,False
+L Bakre lårbesvär,R Fotbesvär,False
+L Achillodyni,L Tåledbesvär,False
+L L1 Radikulopati,L T8 Radikulopati,False
+L C2 Radikulopati,DLS T7-T8,False
+L Mediala armbågsbesvär,L Nackbesvär,False
+L T9 Radikulopati,R Mortonbesvär,False
+L Under armsbesvär,R T9 Radikulopati,False
+R Främre knäbesvär,R Laterala armbågsbesvär,False
+L Övre armbågsbesvär,Torakal Dysfunktion,False
+Centrala Ljumskbesvär,L L2 Radikulopati,False
+L Hälbesvär,R T12 Radikulopati,False
+R Mediala knäledsbesvär,L C4 Radikulopati,False
+L Vadbesvär,R Armvecksbesvär,False
+L Tårbesvär,L Handledsbesvär,False
+R Lårbesvär,L Fotbesvär,False
+L PFS,L Höftkamsbesvär,False
+L Ögonbesvär,R T10 Radikulopati,False
+R T3 Radikulopati,R Knäbesvär,False
+R Ischias,L Lilltåbesvär,False
+L Handbesvär,R Nyckelbensbesvär,False
+R T2 Radikulopati,L Lillfingerbesvär,False
+R Höftbesvär,R Armbågsbesvär,False
+R Laterala knäbesvär,R T1 Radikulopati,False
+R Laterala Fotbesvär,L T8 Radikulopati,False
