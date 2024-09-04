@@ -198,7 +198,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where Munbesvär causes discomfort related to R Tinnitus.
 
 ### Response:
-",False
+",True
 R S1 Radikulopati,R Adduktortendalgi,True,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -1088,7 +1088,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where DLS T8-T9 causes discomfort related to R Öronbesvär.
 
 ### Response:
-",False
+",True
 L T7 Radikulopati,Bröstryggsbesvär,True,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -1258,7 +1258,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where L L2 Radikulopati causes discomfort related to R L3 Radikulopati.
 
 ### Response:
-",True
+",False
 R Pannhuvudvärk,DLS T4-T5,False,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -1738,7 +1738,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where R T10 Radikulopati causes discomfort related to L C4 Radikulopati.
 
 ### Response:
-",False
+",True
 IBS,R Interskapulära besvär,False,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -1888,7 +1888,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where DLS T8-T9 causes discomfort related to L T11 Radikulopati.
 
 ### Response:
-",False
+",True
 R L3 Radikulopati,R Lumbago,True,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -2348,7 +2348,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where L Achillestendalgi causes discomfort related to L Central bröstsmärta.
 
 ### Response:
-",False
+",True
 R S1 Radikulopati,R Bakre lårbesvär,True,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -3948,7 +3948,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where DLS T8-T9 causes discomfort related to L T9 Radikulopati.
 
 ### Response:
-",False
+",True
 R Hälbesvär,DLS T8-T9,False,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -4018,7 +4018,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where DLS C3-C4 causes discomfort related to L T7 Radikulopati.
 
 ### Response:
-",True
+",False
 L L4 Radikulopati,L Höftkamsbesvär,True,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -4528,7 +4528,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where L Lumbago causes discomfort related to L Ischias.
 
 ### Response:
-",False
+",True
 R T5 Radikulopati,Torakal Dysfunktion,True,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -5008,7 +5008,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where DLS T1-T2 causes discomfort related to L Ischias.
 
 ### Response:
-",False
+",True
 R C3 Radikulopati,R Nackbesvär,True,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -6428,7 +6428,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where DLS C2-C3 causes discomfort related to L Fotbesvär.
 
 ### Response:
-",False
+",True
 R L4 Radikulopati,R Knäbesvär,True,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
@@ -6508,7 +6508,7 @@ Is the following statement true or false? Only provide true or false, do not inc
 In the context of diagnosing neuropathic pain, consider the causal relationships where IBS causes discomfort related to Coccydyni.
 
 ### Response:
-",True
+",False
 R L4 Radikulopati,Ryggsbesvär,True,"Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 
 ### Instruction:
