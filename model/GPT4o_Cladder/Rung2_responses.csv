@@ -1,0 +1,801 @@
+prompt,answer,response,correct
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people served by a local water company, the probability of cholera contraction is 62%. For people served by a global water company, the probability of cholera contraction is 53%. For people served by a local water company, the probability of clean water is 25%. For people served by a global water company, the probability of clean water is 63%.
+Question: Will clean water decrease the chance of cholera contraction?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how the man in the room correlates with room in general. Method 2: We look at this correlation case by case according to the candle.
+Question: To understand how the man in the room affects room, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how gender correlates with salary in general. Method 2: We look at this correlation case by case according to occupation.
+Question: To understand how gender affects salary, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people with nonsmoking genes, the probability of lung cancer is 27%. For people with smoking genes, the probability of lung cancer is 39%.
+Question: Will smoking gene decrease the chance of lung cancer?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of lung cancer is 23%. For smokers, the probability of lung cancer is 39%.
+Question: Will smoking increase the chance of lung cancer?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients who are not male and not receiving treatment, the probability of recovery is 0%. For patients who are not male and receiving treatment, the probability of recovery is 23%. For patients who are male and not receiving treatment, the probability of recovery is 77%. For patients who are male and receiving treatment, the probability of recovery is 89%. The overall probability of male gender is 43%.
+Question: Will receives treatment decrease the chance of recovery?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For those who choose to take the stairs, the probability of penguin death is 76%. For those who choose to take the elevator, the probability of penguin death is 59%.
+Question: Will taking the elevator decrease the chance of penguin death?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients who are young and pay a low hospital bill, the probability of recovery is 4%. For patients who are young and pay a high hospital bill, the probability of recovery is 12%. For patients who are old and pay a low hospital bill, the probability of recovery is 73%. For patients who are old and pay a high hospital bill, the probability of recovery is 83%. The overall probability of old age is 43%.
+Question: Will high hospital bill decrease the chance of recovery?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For infants with nonsmoking mothers, the probability of high infant mortality is 37%. For infants with smoking mothers, the probability of high infant mortality is 68%.
+Question: Will smoking mother increase the chance of high infant mortality?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people in the dry season, the probability of wet ground is 36%. For in the rainy season, the probability of wet ground is 46%.
+Question: Will rainy season increase the chance of wet ground?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how vaccination status correlates with smallpox survival in general. Method 2: We look at this correlation case by case according to vaccination reaction.
+Question: To understand how vaccination status affects smallpox survival, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of college admission is 51%. For smokers, the probability of college admission is 37%.
+Question: Will smoking decrease the chance of college admission?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people not taking any medication, the probability of healthy heart is 64%. For people taking medication, the probability of healthy heart is 85%.
+Question: Will taking medication decrease the chance of healthy heart?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of lung cancer is 51%. For smokers, the probability of lung cancer is 75%.
+Question: Will smoking increase the chance of lung cancer?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of college admission is 51%. For smokers, the probability of college admission is 37%.
+Question: Will smoking increase the chance of college admission?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people not blowing out candles, the probability of dark room is 29%. For people who blow out candles, the probability of dark room is 63%.
+Question: Will blowing out the candle decrease the chance of dark room?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how gender correlates with admission status case by case according to department competitiveness. Method 2: We look directly at how gender correlates with admission status in general.
+Question: To understand how gender affects admission status, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how tanning salon treatment correlates with skin in general. Method 2: We look at this correlation case by case according to going to the beach.
+Question: To understand how tanning salon treatment affects skin, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how hospital costs correlates with recovery case by case according to age. Method 2: We look directly at how hospital costs correlates with recovery in general.
+Question: To understand how hospital costs affects recovery, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how education level correlates with salary case by case according to unobserved confounders. Method 2: We look directly at how education level correlates with salary in general.
+Question: To understand how education level affects salary, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how treatment correlates with recovery case by case according to kidney stone size. Method 2: We look directly at how treatment correlates with recovery in general.
+Question: To understand how treatment affects recovery, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how maternal smoking status correlates with infant's birth weight in general. Method 2: We look at this correlation case by case according to unobserved confounders.
+Question: To understand how maternal smoking status affects infant's birth weight, is it more correct to use the Method 1 than Method 2?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how personality correlates with appearance case by case according to relationship status. Method 2: We look directly at how personality correlates with appearance in general.
+Question: To understand how personality affects appearance, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how maternal smoking status correlates with infant mortality case by case according to infant's birth weight. Method 2: We look directly at how maternal smoking status correlates with infant mortality in general.
+Question: To understand how maternal smoking status affects infant mortality, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how smoking correlates with lung cancer case by case according to tar deposit. Method 2: We look directly at how smoking correlates with lung cancer in general.
+Question: To understand how smoking affects lung cancer, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For students who are not encouraged, the probability of high exam score is 28%. For students who are encouraged, the probability of high exam score is 74%.
+Question: Will encouragement increase the chance of high exam score?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how gene correlates with lung cancer case by case according to smoking. Method 2: We look directly at how gene correlates with lung cancer in general.
+Question: To understand how gene affects lung cancer, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how drug taken correlates with cholesterol level case by case according to unobserved confounders. Method 2: We look directly at how drug taken correlates with cholesterol level in general.
+Question: To understand how drug taken affects cholesterol level, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For areas with low cigarette tax, the probability of normal infant birth weight is 20%. For areas with high cigarette tax, the probability of normal infant birth weight is 27%. For areas with low cigarette tax, the probability of smoking mother is 85%. For areas with high cigarette tax, the probability of smoking mother is 60%.
+Question: Will smoking mother increase the chance of normal infant birth weight?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients who are young and pay a low hospital bill, the probability of recovery is 4%. For patients who are young and pay a high hospital bill, the probability of recovery is 12%. For patients who are old and pay a low hospital bill, the probability of recovery is 73%. For patients who are old and pay a high hospital bill, the probability of recovery is 83%. The overall probability of old age is 43%.
+Question: Will high hospital bill increase the chance of recovery?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people without a college degree, the probability of high salary is 28%. For people with a college degree or higher, the probability of high salary is 57%.
+Question: Will college degree or higher increase the chance of high salary?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how my decision correlates with penguin survival case by case according to penguin mood. Method 2: We look directly at how my decision correlates with penguin survival in general.
+Question: To understand how my decision affects penguin survival, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For areas with low cigarette tax, the probability of normal infant birth weight is 20%. For areas with high cigarette tax, the probability of normal infant birth weight is 27%. For areas with low cigarette tax, the probability of smoking mother is 85%. For areas with high cigarette tax, the probability of smoking mother is 60%.
+Question: Will smoking mother decrease the chance of normal infant birth weight?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of lung cancer is 51%. For smokers, the probability of lung cancer is 75%.
+Question: Will smoking decrease the chance of lung cancer?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how obesity correlates with lifespan in general. Method 2: We look at this correlation case by case according to diabetes.
+Question: To understand how obesity affects lifespan, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how smoking correlates with lung cancer in general. Method 2: We look at this correlation case by case according to gender.
+Question: To understand how smoking affects lung cancer, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For individuals who are not male, the probability of admission acceptance is 53%. For individuals who are male, the probability of admission acceptance is 37%.
+Question: Will male gender increase the chance of admission acceptance?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how gender correlates with admission status in general. Method 2: We look at this correlation case by case according to department competitiveness.
+Question: To understand how gender affects admission status, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how personality correlates with appearance in general. Method 2: We look at this correlation case by case according to relationship status.
+Question: To understand how personality affects appearance, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of high tar deposit is 24%. For smokers, the probability of high tar deposit is 73%. For nonsmokers and with no tar deposit, the probability of lung cancer is 58%. For nonsmokers and with high tar deposit, the probability of lung cancer is 85%. For smokers and with no tar deposit, the probability of lung cancer is 51%. For smokers and with high tar deposit, the probability of lung cancer is 79%. The overall probability of smoking is 52%.
+Question: Will smoking decrease the chance of lung cancer?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how the captain correlates with prisoner in general. Method 2: We look at this correlation case by case according to the private.
+Question: To understand how the captain affects prisoner, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients not assigned the drug treatment, the probability of low cholesterol is 53%. For patients assigned the drug treatment, the probability of low cholesterol is 49%. For patients not assigned the drug treatment, the probability of taking of all assigned drugs is 33%. For patients assigned the drug treatment, the probability of taking of all assigned drugs is 66%.
+Question: Will taking of all assigned drugs decrease the chance of low cholesterol?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how vaccination status correlates with smallpox survival case by case according to vaccination reaction. Method 2: We look directly at how vaccination status correlates with smallpox survival in general.
+Question: To understand how vaccination status affects smallpox survival, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how husband correlates with alarm clock case by case according to wife. Method 2: We look directly at how husband correlates with alarm clock in general.
+Question: To understand how husband affects alarm clock, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For those who choose to take the stairs, the probability of penguin death is 76%. For those who choose to take the elevator, the probability of penguin death is 59%.
+Question: Will taking the elevator increase the chance of penguin death?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For unvaccinated individuals, the probability of smallpox survival is 46%. For vaccinated individuals, the probability of smallpox survival is 48%.
+Question: Will vaccination decrease the chance of smallpox survival?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people with nonsmoking genes, the probability of lung cancer is 41%. For people with smoking genes, the probability of lung cancer is 52%.
+Question: Will smoking gene decrease the chance of lung cancer?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people not using tanning salon treatments, the probability of tanned skin is 24%. For people who went to tanning salons, the probability of tanned skin is 74%.
+Question: Will tanning salon treatment increase the chance of tanned skin?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how gender correlates with admission status in general. Method 2: We look at this correlation case by case according to department competitiveness.
+Question: To understand how gender affects admission status, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people who are famous, the correlation between attractive appearance and talent is -0.02.
+Question: If we look at people who are famous, does it mean that attractive appearance does not affect talent?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how tanning salon treatment correlates with skin case by case according to going to the beach. Method 2: We look directly at how tanning salon treatment correlates with skin in general.
+Question: To understand how tanning salon treatment affects skin, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people in a relationship, the correlation between kindness and attractive appearance is 0.16.
+Question: If we look at people in a relationship, does it mean that kindness does not affect attractive appearance?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how the captain correlates with prisoner in general. Method 2: We look at this correlation case by case according to the private.
+Question: To understand how the captain affects prisoner, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how parents' intelligence correlates with child's intelligence in general. Method 2: We look at this correlation case by case according to parents' social status.
+Question: To understand how parents' intelligence affects child's intelligence, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how maternal smoking status correlates with infant's birth weight case by case according to unobserved confounders. Method 2: We look directly at how maternal smoking status correlates with infant's birth weight in general.
+Question: To understand how maternal smoking status affects infant's birth weight, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how gene correlates with lung cancer in general. Method 2: We look at this correlation case by case according to smoking.
+Question: To understand how gene affects lung cancer, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how gender correlates with salary in general. Method 2: We look at this correlation case by case according to occupation.
+Question: To understand how gender affects salary, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For individuals who are not male, the probability of high salary is 22%. For individuals who are male, the probability of high salary is 41%.
+Question: Will male gender increase the chance of high salary?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients who have small kidney stones and not receiving treatment, the probability of recovery is 6%. For patients who have small kidney stones and receiving treatment, the probability of recovery is 38%. For patients who have large kidney stones and not receiving treatment, the probability of recovery is 65%. For patients who have large kidney stones and receiving treatment, the probability of recovery is 97%. The overall probability of large kidney stone is 41%.
+Question: Will receives treatment increase the chance of recovery?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how respiratory issues correlates with broken bones in general. Method 2: We look at this correlation case by case according to hospitalization status.
+Question: To understand how respiratory issues affects broken bones, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For campers who do not light a match, the probability of the forest on fire is 32%. For campers who light a match, the probability of the forest on fire is 71%.
+Question: Will the camper lighting a match increase the chance of the forest on fire?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people with nonsmoking genes, the probability of lung cancer is 41%. For people with smoking genes, the probability of lung cancer is 52%.
+Question: Will smoking gene increase the chance of lung cancer?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how smoking correlates with college admission case by case according to effort. Method 2: We look directly at how smoking correlates with college admission in general.
+Question: To understand how smoking affects college admission, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For days when Alice wakes up on time, the probability of arriving to school on time is 68%. For days when Alice wakes up late, the probability of arriving to school on time is 31%.
+Question: Will waking up late increase the chance of arriving to school on time?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how Alice waking up correlates with Alice arriving to school in general. Method 2: We look at this correlation case by case according to traffic.
+Question: To understand how Alice waking up affects Alice arriving to school, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For husbands that don't set the alarm, the probability of ringing alarm is 56%. For husbands that set the alarm, the probability of ringing alarm is 65%.
+Question: Will alarm set by husband decrease the chance of ringing alarm?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how smoking correlates with lung cancer case by case according to gender. Method 2: We look directly at how smoking correlates with lung cancer in general.
+Question: To understand how smoking affects lung cancer, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For students who are not encouraged, the probability of high exam score is 37%. For students who are encouraged, the probability of high exam score is 74%.
+Question: Will encouragement decrease the chance of high exam score?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients who have small kidney stones and not receiving treatment, the probability of recovery is 6%. For patients who have small kidney stones and receiving treatment, the probability of recovery is 20%. For patients who have large kidney stones and not receiving treatment, the probability of recovery is 81%. For patients who have large kidney stones and receiving treatment, the probability of recovery is 95%. The overall probability of large kidney stone is 57%.
+Question: Will receives treatment decrease the chance of recovery?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people without a college degree, the probability of high salary is 45%. For people with a college degree or higher, the probability of high salary is 56%.
+Question: Will college degree or higher decrease the chance of high salary?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how respiratory issues correlates with broken bones case by case according to hospitalization status. Method 2: We look directly at how respiratory issues correlates with broken bones in general.
+Question: To understand how respiratory issues affects broken bones, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how gene correlates with lung cancer case by case according to smoking. Method 2: We look directly at how gene correlates with lung cancer in general.
+Question: To understand how gene affects lung cancer, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how vaccination status correlates with smallpox survival in general. Method 2: We look at this correlation case by case according to vaccination reaction.
+Question: To understand how vaccination status affects smallpox survival, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For unvaccinated individuals, the probability of smallpox survival is 42%. For vaccinated individuals, the probability of smallpox survival is 48%.
+Question: Will vaccination increase the chance of smallpox survival?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how gender correlates with salary case by case according to occupation. Method 2: We look directly at how gender correlates with salary in general.
+Question: To understand how gender affects salary, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people with no pre-conditions and refusing the vaccine, the probability of recovering from the disease is 4%. For people with no pre-conditions and getting the vaccine, the probability of recovering from the disease is 25%. For people with pre-conditions and refusing the vaccine, the probability of recovering from the disease is 68%. For people with pre-conditions and getting the vaccine, the probability of recovering from the disease is 92%. The overall probability of pre-conditions is 43%.
+Question: Will getting the vaccine increase the chance of recovering from the disease?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how Alice waking up correlates with Alice arriving to school case by case according to traffic. Method 2: We look directly at how Alice waking up correlates with Alice arriving to school in general.
+Question: To understand how Alice waking up affects Alice arriving to school, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people who are famous, the correlation between attractive appearance and talent is -0.02.
+Question: If we look at people who are famous, does it mean that attractive appearance affects talent?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how the captain correlates with prisoner case by case according to the private. Method 2: We look directly at how the captain correlates with prisoner in general.
+Question: To understand how the captain affects prisoner, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how education level correlates with salary in general. Method 2: We look at this correlation case by case according to skill.
+Question: To understand how education level affects salary, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For farms with reduced crop yield per acre, the probability of increased price is 67%. For farms with increased crop yield per acre, the probability of increased price is 59%. For farms with reduced crop yield per acre, the probability of increased supply is 27%. For farms with increased crop yield per acre, the probability of increased supply is 60%.
+Question: Will increased supply increase the chance of increased price?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 26%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 64%. For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 39%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 78%. The overall probability of CEO's decision to fire the employee is 13%.
+Question: Will manager signing the termination letter decrease the chance of employee being fired?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For individuals who are not male, the probability of admission acceptance is 53%. For individuals who are male, the probability of admission acceptance is 37%.
+Question: Will male gender decrease the chance of admission acceptance?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For individuals who are not male, the probability of admission acceptance is 84%. For individuals who are male, the probability of admission acceptance is 48%.
+Question: Will male gender decrease the chance of admission acceptance?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients not consuming citrus, the probability of scurvy is 69%. For patients consuming citrus, the probability of scurvy is 42%.
+Question: Will citrus intake increase the chance of scurvy?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how treatment correlates with recovery case by case according to kidney stone size. Method 2: We look directly at how treatment correlates with recovery in general.
+Question: To understand how treatment affects recovery, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For those who choose to take the stairs, the probability of penguin death is 86%. For those who choose to take the elevator, the probability of penguin death is 71%.
+Question: Will taking the elevator decrease the chance of penguin death?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how maternal smoking status correlates with infant mortality in general. Method 2: We look at this correlation case by case according to infant's birth weight.
+Question: To understand how maternal smoking status affects infant mortality, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how the man in the room correlates with room case by case according to the candle. Method 2: We look directly at how the man in the room correlates with room in general.
+Question: To understand how the man in the room affects room, is it more correct to use the Method 1 than Method 2?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how education level correlates with salary in general. Method 2: We look at this correlation case by case according to skill.
+Question: To understand how education level affects salary, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how maternal smoking status correlates with infant's birth weight case by case according to unobserved confounders. Method 2: We look directly at how maternal smoking status correlates with infant's birth weight in general.
+Question: To understand how maternal smoking status affects infant's birth weight, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how treatment correlates with recovery case by case according to gender. Method 2: We look directly at how treatment correlates with recovery in general.
+Question: To understand how treatment affects recovery, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 26%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 64%. For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 39%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 78%. The overall probability of CEO's decision to fire the employee is 13%.
+Question: Will manager signing the termination letter increase the chance of employee being fired?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how eating citrus correlates with scurvy in general. Method 2: We look at this correlation case by case according to vitmain C.
+Question: To understand how eating citrus affects scurvy, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how treatment correlates with recovery in general. Method 2: We look at this correlation case by case according to kidney stone size.
+Question: To understand how treatment affects recovery, is it more correct to use the Method 1 than Method 2?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how smoking correlates with lung cancer case by case according to gender. Method 2: We look directly at how smoking correlates with lung cancer in general.
+Question: To understand how smoking affects lung cancer, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how talent correlates with effort in general. Method 2: We look at this correlation case by case according to elite institution admission status.
+Question: To understand how talent affects effort, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how my decision correlates with penguin survival case by case according to penguin mood. Method 2: We look directly at how my decision correlates with penguin survival in general.
+Question: To understand how my decision affects penguin survival, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients not consuming citrus, the probability of scurvy is 45%. For patients consuming citrus, the probability of scurvy is 21%.
+Question: Will citrus intake decrease the chance of scurvy?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people served by a local water company, the probability of cholera contraction is 39%. For people served by a global water company, the probability of cholera contraction is 38%. For people served by a local water company, the probability of clean water is 60%. For people served by a global water company, the probability of clean water is 67%.
+Question: Will clean water decrease the chance of cholera contraction?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For those who choose to take the stairs, the probability of penguin death is 81%. For those who choose to take the elevator, the probability of penguin death is 27%.
+Question: Will taking the elevator increase the chance of penguin death?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of high tar deposit is 67%. For smokers, the probability of high tar deposit is 17%. For nonsmokers and with no tar deposit, the probability of lung cancer is 77%. For nonsmokers and with high tar deposit, the probability of lung cancer is 45%. For smokers and with no tar deposit, the probability of lung cancer is 73%. For smokers and with high tar deposit, the probability of lung cancer is 40%. The overall probability of smoking is 68%.
+Question: Will smoking decrease the chance of lung cancer?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people served by a local water company, the probability of cholera contraction is 52%. For people served by a global water company, the probability of cholera contraction is 43%. For people served by a local water company, the probability of clean water is 62%. For people served by a global water company, the probability of clean water is 38%.
+Question: Will clean water decrease the chance of cholera contraction?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how drug taken correlates with cholesterol level case by case according to unobserved confounders. Method 2: We look directly at how drug taken correlates with cholesterol level in general.
+Question: To understand how drug taken affects cholesterol level, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how encouragement level correlates with exam score case by case according to studying habit. Method 2: We look directly at how encouragement level correlates with exam score in general.
+Question: To understand how encouragement level affects exam score, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 56%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 20%. For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 81%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 45%. The overall probability of CEO's decision to fire the employee is 81%.
+Question: Will manager signing the termination letter increase the chance of employee being fired?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how manager correlates with employee case by case according to director. Method 2: We look directly at how manager correlates with employee in general.
+Question: To understand how manager affects employee, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how encouragement level correlates with exam score in general. Method 2: We look at this correlation case by case according to studying habit.
+Question: To understand how encouragement level affects exam score, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For individuals who are not male, the probability of admission acceptance is 44%. For individuals who are male, the probability of admission acceptance is 25%.
+Question: Will male gender decrease the chance of admission acceptance?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people served by a local water company, the probability of cholera contraction is 47%. For people served by a global water company, the probability of cholera contraction is 38%. For people served by a local water company, the probability of clean water is 46%. For people served by a global water company, the probability of clean water is 12%.
+Question: Will clean water decrease the chance of cholera contraction?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how eating citrus correlates with scurvy in general. Method 2: We look at this correlation case by case according to vitmain C.
+Question: To understand how eating citrus affects scurvy, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how drug taken correlates with cholesterol level case by case according to unobserved confounders. Method 2: We look directly at how drug taken correlates with cholesterol level in general.
+Question: To understand how drug taken affects cholesterol level, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients not assigned the drug treatment, the probability of low cholesterol is 57%. For patients assigned the drug treatment, the probability of low cholesterol is 58%. For patients not assigned the drug treatment, the probability of taking of all assigned drugs is 64%. For patients assigned the drug treatment, the probability of taking of all assigned drugs is 28%.
+Question: Will taking of all assigned drugs increase the chance of low cholesterol?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of college admission is 43%. For smokers, the probability of college admission is 27%.
+Question: Will smoking decrease the chance of college admission?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how maternal smoking status correlates with infant mortality case by case according to infant's birth weight. Method 2: We look directly at how maternal smoking status correlates with infant mortality in general.
+Question: To understand how maternal smoking status affects infant mortality, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how personality correlates with appearance in general. Method 2: We look at this correlation case by case according to relationship status.
+Question: To understand how personality affects appearance, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how personality correlates with appearance case by case according to relationship status. Method 2: We look directly at how personality correlates with appearance in general.
+Question: To understand how personality affects appearance, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people not taking any medication, the probability of healthy heart is 84%. For people taking medication, the probability of healthy heart is 52%.
+Question: Will taking medication increase the chance of healthy heart?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For unvaccinated individuals, the probability of smallpox survival is 62%. For vaccinated individuals, the probability of smallpox survival is 61%.
+Question: Will vaccination decrease the chance of smallpox survival?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people with no pre-conditions and refusing the vaccine, the probability of recovering from the disease is 91%. For people with no pre-conditions and getting the vaccine, the probability of recovering from the disease is 74%. For people with pre-conditions and refusing the vaccine, the probability of recovering from the disease is 28%. For people with pre-conditions and getting the vaccine, the probability of recovering from the disease is 12%. The overall probability of pre-conditions is 45%.
+Question: Will getting the vaccine decrease the chance of recovering from the disease?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how smoking correlates with lung cancer in general. Method 2: We look at this correlation case by case according to tar deposit.
+Question: To understand how smoking affects lung cancer, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of college admission is 66%. For smokers, the probability of college admission is 56%.
+Question: Will smoking decrease the chance of college admission?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how eating citrus correlates with scurvy in general. Method 2: We look at this correlation case by case according to vitmain C.
+Question: To understand how eating citrus affects scurvy, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients not assigned the drug treatment, the probability of low cholesterol is 67%. For patients assigned the drug treatment, the probability of low cholesterol is 45%. For patients not assigned the drug treatment, the probability of taking of all assigned drugs is 93%. For patients assigned the drug treatment, the probability of taking of all assigned drugs is 41%.
+Question: Will taking of all assigned drugs decrease the chance of low cholesterol?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people in a relationship, the correlation between kindness and attractive appearance is -0.06.
+Question: If we look at people in a relationship, does it mean that kindness does not affect attractive appearance?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For normal weight people, the probability of long lifespan is 39%. For obese people, the probability of long lifespan is 58%.
+Question: Will obesity increase the chance of long lifespan?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how gender correlates with admission status case by case according to department competitiveness. Method 2: We look directly at how gender correlates with admission status in general.
+Question: To understand how gender affects admission status, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For infants with nonsmoking mothers, the probability of high infant mortality is 70%. For infants with smoking mothers, the probability of high infant mortality is 42%.
+Question: Will smoking mother decrease the chance of high infant mortality?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people without a college degree, the probability of high salary is 40%. For people with a college degree or higher, the probability of high salary is 53%.
+Question: Will college degree or higher decrease the chance of high salary?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how smoking correlates with lung cancer case by case according to gender. Method 2: We look directly at how smoking correlates with lung cancer in general.
+Question: To understand how smoking affects lung cancer, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how my decision correlates with penguin survival case by case according to penguin mood. Method 2: We look directly at how my decision correlates with penguin survival in general.
+Question: To understand how my decision affects penguin survival, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients not consuming citrus, the probability of scurvy is 71%. For patients consuming citrus, the probability of scurvy is 55%.
+Question: Will citrus intake decrease the chance of scurvy?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how gender correlates with admission status in general. Method 2: We look at this correlation case by case according to department competitiveness.
+Question: To understand how gender affects admission status, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how season correlates with ground case by case according to sprinkler. Method 2: We look directly at how season correlates with ground in general.
+Question: To understand how season affects ground, is it more correct to use the Method 1 than Method 2?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how medication correlates with heart condition in general. Method 2: We look at this correlation case by case according to blood pressure.
+Question: To understand how medication affects heart condition, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of lung cancer is 38%. For smokers, the probability of lung cancer is 48%.
+Question: Will smoking increase the chance of lung cancer?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how supply correlates with price case by case according to demand. Method 2: We look directly at how supply correlates with price in general.
+Question: To understand how supply affects price, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how obesity correlates with lifespan case by case according to diabetes. Method 2: We look directly at how obesity correlates with lifespan in general.
+Question: To understand how obesity affects lifespan, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For individuals who are not male, the probability of high salary is 53%. For individuals who are male, the probability of high salary is 51%.
+Question: Will male gender decrease the chance of high salary?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people without a college degree, the probability of high salary is 15%. For people with a college degree or higher, the probability of high salary is 44%.
+Question: Will college degree or higher decrease the chance of high salary?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how appearance correlates with talent in general. Method 2: We look at this correlation case by case according to fame.
+Question: To understand how appearance affects talent, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how drug taken correlates with cholesterol level in general. Method 2: We look at this correlation case by case according to unobserved confounders.
+Question: To understand how drug taken affects cholesterol level, is it more correct to use the Method 1 than Method 2?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how husband correlates with alarm clock case by case according to wife. Method 2: We look directly at how husband correlates with alarm clock in general.
+Question: To understand how husband affects alarm clock, is it more correct to use the Method 1 than Method 2?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how appearance correlates with talent case by case according to fame. Method 2: We look directly at how appearance correlates with talent in general.
+Question: To understand how appearance affects talent, is it more correct to use the Method 1 than Method 2?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people not blowing out candles, the probability of dark room is 89%. For people who blow out candles, the probability of dark room is 59%.
+Question: Will blowing out the candle increase the chance of dark room?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For individuals who are not male, the probability of high salary is 35%. For individuals who are male, the probability of high salary is 52%.
+Question: Will male gender decrease the chance of high salary?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 59%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 25%. For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 81%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 48%. The overall probability of CEO's decision to fire the employee is 83%.
+Question: Will manager signing the termination letter increase the chance of employee being fired?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how respiratory issues correlates with broken bones in general. Method 2: We look at this correlation case by case according to hospitalization status.
+Question: To understand how respiratory issues affects broken bones, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how tanning salon treatment correlates with skin in general. Method 2: We look at this correlation case by case according to going to the beach.
+Question: To understand how tanning salon treatment affects skin, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how respiratory issues correlates with broken bones in general. Method 2: We look at this correlation case by case according to hospitalization status.
+Question: To understand how respiratory issues affects broken bones, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how smoking correlates with college admission case by case according to effort. Method 2: We look directly at how smoking correlates with college admission in general.
+Question: To understand how smoking affects college admission, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people living far from a college, the probability of high salary is 31%. For people living close to a college, the probability of high salary is 44%. For people living far from a college, the probability of college degree or higher is 50%. For people living close to a college, the probability of college degree or higher is 17%.
+Question: Will college degree or higher decrease the chance of high salary?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For days when Alice wakes up on time, the probability of arriving to school on time is 48%. For days when Alice wakes up late, the probability of arriving to school on time is 80%.
+Question: Will waking up late increase the chance of arriving to school on time?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how treatment correlates with recovery in general. Method 2: We look at this correlation case by case according to kidney stone size.
+Question: To understand how treatment affects recovery, is it more correct to use the Method 1 than Method 2?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how vaccination status correlates with smallpox survival in general. Method 2: We look at this correlation case by case according to vaccination reaction.
+Question: To understand how vaccination status affects smallpox survival, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients who are young and pay a low hospital bill, the probability of recovery is 97%. For patients who are young and pay a high hospital bill, the probability of recovery is 76%. For patients who are old and pay a low hospital bill, the probability of recovery is 24%. For patients who are old and pay a high hospital bill, the probability of recovery is 0%. The overall probability of old age is 58%.
+Question: Will high hospital bill decrease the chance of recovery?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For students who are not encouraged, the probability of high exam score is 64%. For students who are encouraged, the probability of high exam score is 39%.
+Question: Will encouragement increase the chance of high exam score?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For children with unintelligent parents, the probability of intelligent child is 75%. For children with intelligent parents, the probability of intelligent child is 45%.
+Question: Will intelligent parents decrease the chance of intelligent child?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For students accepted to elite institutions, the correlation between talent and being hard-working is -0.08.
+Question: If we look at students accepted to elite institutions, does it mean that talent affects being hard-working?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how encouragement level correlates with exam score case by case according to studying habit. Method 2: We look directly at how encouragement level correlates with exam score in general.
+Question: To understand how encouragement level affects exam score, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how my decision correlates with penguin survival case by case according to penguin mood. Method 2: We look directly at how my decision correlates with penguin survival in general.
+Question: To understand how my decision affects penguin survival, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For hospitalized individuals, the correlation between respiratory issues and broken bones is -0.08.
+Question: If we look at hospitalized individuals, does it mean that respiratory issues does not affect broken bones?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how vaccination status correlates with smallpox survival case by case according to vaccination reaction. Method 2: We look directly at how vaccination status correlates with smallpox survival in general.
+Question: To understand how vaccination status affects smallpox survival, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how vaccination correlates with disease case by case according to pre-conditions. Method 2: We look directly at how vaccination correlates with disease in general.
+Question: To understand how vaccination affects disease, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how gender correlates with admission status in general. Method 2: We look at this correlation case by case according to department competitiveness.
+Question: To understand how gender affects admission status, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people who are famous, the correlation between attractive appearance and talent is -0.09.
+Question: If we look at people who are famous, does it mean that attractive appearance does not affect talent?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how season correlates with ground in general. Method 2: We look at this correlation case by case according to sprinkler.
+Question: To understand how season affects ground, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how manager correlates with employee case by case according to director. Method 2: We look directly at how manager correlates with employee in general.
+Question: To understand how manager affects employee, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how gender correlates with admission status case by case according to department competitiveness. Method 2: We look directly at how gender correlates with admission status in general.
+Question: To understand how gender affects admission status, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how obesity correlates with lifespan in general. Method 2: We look at this correlation case by case according to diabetes.
+Question: To understand how obesity affects lifespan, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people in the dry season, the probability of wet ground is 32%. For in the rainy season, the probability of wet ground is 39%.
+Question: Will rainy season decrease the chance of wet ground?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how hospital costs correlates with recovery case by case according to age. Method 2: We look directly at how hospital costs correlates with recovery in general.
+Question: To understand how hospital costs affects recovery, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people not taking any medication, the probability of healthy heart is 68%. For people taking medication, the probability of healthy heart is 52%.
+Question: Will taking medication increase the chance of healthy heart?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people with no pre-conditions and refusing the vaccine, the probability of recovering from the disease is 96%. For people with no pre-conditions and getting the vaccine, the probability of recovering from the disease is 74%. For people with pre-conditions and refusing the vaccine, the probability of recovering from the disease is 23%. For people with pre-conditions and getting the vaccine, the probability of recovering from the disease is 2%. The overall probability of pre-conditions is 47%.
+Question: Will getting the vaccine decrease the chance of recovering from the disease?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how smoking correlates with lung cancer in general. Method 2: We look at this correlation case by case according to tar deposit.
+Question: To understand how smoking affects lung cancer, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people in the dry season, the probability of wet ground is 32%. For in the rainy season, the probability of wet ground is 39%.
+Question: Will rainy season increase the chance of wet ground?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how education level correlates with salary case by case according to skill. Method 2: We look directly at how education level correlates with salary in general.
+Question: To understand how education level affects salary, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people living far from a college, the probability of high salary is 38%. For people living close to a college, the probability of high salary is 57%. For people living far from a college, the probability of college degree or higher is 76%. For people living close to a college, the probability of college degree or higher is 24%.
+Question: Will college degree or higher increase the chance of high salary?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how treatment correlates with recovery in general. Method 2: We look at this correlation case by case according to kidney stone size.
+Question: To understand how treatment affects recovery, is it more correct to use the Method 1 than Method 2?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how tanning salon treatment correlates with skin in general. Method 2: We look at this correlation case by case according to going to the beach.
+Question: To understand how tanning salon treatment affects skin, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of college admission is 66%. For smokers, the probability of college admission is 56%.
+Question: Will smoking increase the chance of college admission?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 56%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 20%. For CEOs who fire employees and managers who don't sign termination letters, the probability of employee being fired is 81%. For CEOs who fire employees and managers who sign termination letters, the probability of employee being fired is 45%. The overall probability of CEO's decision to fire the employee is 81%.
+Question: Will manager signing the termination letter decrease the chance of employee being fired?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how gene correlates with lung cancer case by case according to smoking. Method 2: We look directly at how gene correlates with lung cancer in general.
+Question: To understand how gene affects lung cancer, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how my decision correlates with penguin survival in general. Method 2: We look at this correlation case by case according to penguin mood.
+Question: To understand how my decision affects penguin survival, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how vaccination status correlates with smallpox survival in general. Method 2: We look at this correlation case by case according to vaccination reaction.
+Question: To understand how vaccination status affects smallpox survival, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how vaccination correlates with disease case by case according to pre-conditions. Method 2: We look directly at how vaccination correlates with disease in general.
+Question: To understand how vaccination affects disease, is it more correct to use the Method 1 than Method 2?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For nonsmokers, the probability of lung cancer is 38%. For smokers, the probability of lung cancer is 48%.
+Question: Will smoking decrease the chance of lung cancer?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For unvaccinated individuals, the probability of smallpox survival is 62%. For vaccinated individuals, the probability of smallpox survival is 61%.
+Question: Will vaccination increase the chance of smallpox survival?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For children with unintelligent parents, the probability of intelligent child is 63%. For children with intelligent parents, the probability of intelligent child is 45%.
+Question: Will intelligent parents increase the chance of intelligent child?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how husband correlates with alarm clock in general. Method 2: We look at this correlation case by case according to wife.
+Question: To understand how husband affects alarm clock, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how smoking correlates with college admission in general. Method 2: We look at this correlation case by case according to effort.
+Question: To understand how smoking affects college admission, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how Alice waking up correlates with Alice arriving to school case by case according to traffic. Method 2: We look directly at how Alice waking up correlates with Alice arriving to school in general.
+Question: To understand how Alice waking up affects Alice arriving to school, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For captains who release prisoners, the probability of the prisoner's death is 13%. For captains who execute prisoners, the probability of the prisoner's death is 64%.
+Question: Will the captain's order to execute the prisoner decrease the chance of the prisoner's death?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how parents' intelligence correlates with child's intelligence case by case according to parents' social status. Method 2: We look directly at how parents' intelligence correlates with child's intelligence in general.
+Question: To understand how parents' intelligence affects child's intelligence, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For normal weight people, the probability of long lifespan is 45%. For obese people, the probability of long lifespan is 69%.
+Question: Will obesity increase the chance of long lifespan?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients who have small kidney stones and not receiving treatment, the probability of recovery is 84%. For patients who have small kidney stones and receiving treatment, the probability of recovery is 76%. For patients who have large kidney stones and not receiving treatment, the probability of recovery is 16%. For patients who have large kidney stones and receiving treatment, the probability of recovery is 11%. The overall probability of large kidney stone is 47%.
+Question: Will receives treatment increase the chance of recovery?",no,no,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For patients who are not male and not receiving treatment, the probability of recovery is 96%. For patients who are not male and receiving treatment, the probability of recovery is 84%. For patients who are male and not receiving treatment, the probability of recovery is 34%. For patients who are male and receiving treatment, the probability of recovery is 18%. The overall probability of male gender is 43%.
+Question: Will receives treatment decrease the chance of recovery?",yes,yes,True
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look directly at how education level correlates with salary in general. Method 2: We look at this correlation case by case according to skill.
+Question: To understand how education level affects salary, is it more correct to use the Method 1 than Method 2?",yes,no,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: Method 1: We look at how the camper correlates with the forest case by case according to the smoker. Method 2: We look directly at how the camper correlates with the forest in general.
+Question: To understand how the camper affects the forest, is it more correct to use the Method 1 than Method 2?",no,yes,False
+"Use your causal reasoning ability to only answer yes or no for the following question based on the given information.
+
+Given Info: For people with no pre-conditions and refusing the vaccine, the probability of recovering from the disease is 91%. For people with no pre-conditions and getting the vaccine, the probability of recovering from the disease is 74%. For people with pre-conditions and refusing the vaccine, the probability of recovering from the disease is 28%. For people with pre-conditions and getting the vaccine, the probability of recovering from the disease is 12%. The overall probability of pre-conditions is 45%.
+Question: Will getting the vaccine increase the chance of recovering from the disease?",no,no,True
