@@ -1,0 +1,1201 @@
+prompt,answer,response,correct
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the camper lighting a match is 20%. For campers who do not light a match, the probability of the forest on fire is 32%. For campers who light a match, the probability of the forest on fire is 71%.
+Question: Is the forest on fire more likely than the forest not on fire overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of kindness is 45%. For people with mean personalities and single people, the probability of attractive appearance is 4%. For people with mean personalities and in a relationship, the probability of attractive appearance is 13%. For people with kind personalities and single people, the probability of attractive appearance is 3%. For people with kind personalities and in a relationship, the probability of attractive appearance is 26%.
+Question: If we look at people in a relationship, does the chance of attractive appearance decrease when kindness?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of respiratory issues is 57%. The probability of no respiratory issues and broken bones is 4%. The probability of respiratory issues and broken bones is 6%.
+Question: Is the chance of broken bones larger when observing respiratory issues?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 81%. For individuals who are not male, the probability of admission acceptance is 53%. For individuals who are male, the probability of admission acceptance is 53%.
+Question: Is admission acceptance less likely than admission rejection overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of talent is 41%. For students who are not talented and rejected from elite institutions, the probability of being hard-working is 39%. For students who are not talented and accepted to elite institutions, the probability of being hard-working is 69%. For students who are talented and rejected from elite institutions, the probability of being hard-working is 29%. For students who are talented and accepted to elite institutions, the probability of being hard-working is 61%.
+Question: If we look at students accepted to elite institutions, does the chance of being hard-working decrease when talent?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of intelligent parents is 55%. The probability of unintelligent parents and intelligent child is 11%. The probability of intelligent parents and intelligent child is 23%.
+Question: Is the chance of intelligent child smaller when observing intelligent parents?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of talent is 17%. For students who are not talented and rejected from elite institutions, the probability of being hard-working is 1%. For students who are not talented and accepted to elite institutions, the probability of being hard-working is 13%. For students who are talented and rejected from elite institutions, the probability of being hard-working is 1%. For students who are talented and accepted to elite institutions, the probability of being hard-working is 4%.
+Question: If we look at students accepted to elite institutions, does the chance of being hard-working decrease when talent?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of rainy season is 16%. For people in the dry season, the probability of wet ground is 36%. For in the rainy season, the probability of wet ground is 46%.
+Question: Is wet ground less likely than dry ground overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 52%. For people without a college degree, the probability of high salary is 15%. For people with a college degree or higher, the probability of high salary is 61%.
+Question: Is high salary more likely than low salary overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of respiratory issues is 57%. For people with no respiratory issues, the probability of broken bones is 10%. For people with respiratory issues, the probability of broken bones is 10%.
+Question: Is broken bones less likely than no broken bones overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 2%. The probability of nonsmoking mother and high infant mortality is 37%. The probability of smoking mother and high infant mortality is 1%.
+Question: Is the chance of high infant mortality larger when observing smoking mother?",yes,No,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 3%. For nonsmokers, the probability of lung cancer is 23%. For smokers, the probability of lung cancer is 39%.
+Question: Is lung cancer less likely than absence of lung cancer overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 51%. For people without a college degree, the probability of high salary is 38%. For people with a college degree or higher, the probability of high salary is 66%.
+Question: Is high salary less likely than low salary overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 51%. For people without a college degree, the probability of high salary is 38%. For people with a college degree or higher, the probability of high salary is 66%.
+Question: Is high salary more likely than low salary overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of talent is 41%. The probability of lack of talent and being hard-working is 32%. The probability of talent and being hard-working is 22%.
+Question: Is the chance of being hard-working larger when observing talent?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of tanning salon treatment is 9%. For people not using tanning salon treatments, the probability of tanned skin is 24%. For people who went to tanning salons, the probability of tanned skin is 74%.
+Question: Is tanned skin less likely than pale skin overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of getting the vaccine is 52%. The probability of vaccine refusal and recovering from the disease is 28%. The probability of getting the vaccine and recovering from the disease is 15%.
+Question: Is the chance of recovering from the disease larger when observing getting the vaccine?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of kindness is 45%. For people with mean personalities, the probability of attractive appearance is 7%. For people with kind personalities, the probability of attractive appearance is 7%.
+Question: Is attractive appearance less likely than unattractive appearance overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 81%. For individuals who are not male, the probability of admission acceptance is 53%. For individuals who are male, the probability of admission acceptance is 53%.
+Question: Is admission acceptance more likely than admission rejection overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking the elevator is 53%. The probability of taking the stairs and penguin death is 40%. The probability of taking the elevator and penguin death is 38%.
+Question: Is the chance of penguin death larger when observing taking the elevator?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 51%. For patients not receiving treatment, the probability of recovery is 66%. For patients receiving treatment, the probability of recovery is 24%.
+Question: Is recovery less likely than non-recovery overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 40%. The probability of high school degree or lower and high salary is 16%. The probability of college degree or higher and high salary is 23%.
+Question: Is the chance of high salary smaller when observing college degree or higher?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 40%. The probability of non-male gender and admission acceptance is 31%. The probability of male gender and admission acceptance is 27%.
+Question: Is the chance of admission acceptance larger when observing male gender?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking medication is 53%. For people not taking any medication, the probability of healthy heart is 64%. For people taking medication, the probability of healthy heart is 85%.
+Question: Is healthy heart less likely than heart problems overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of alarm set by husband is 72%. For husbands that don't set the alarm, the probability of ringing alarm is 56%. For husbands that set the alarm, the probability of ringing alarm is 65%.
+Question: Is ringing alarm less likely than silent alarm overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of talent is 41%. For students who are not talented, the probability of being hard-working is 54%. For students who are talented, the probability of being hard-working is 54%.
+Question: Is being hard-working less likely than being lazy overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of waking up late is 45%. The probability of waking up on time and arriving to school on time is 38%. The probability of waking up late and arriving to school on time is 14%.
+Question: Is the chance of arriving to school on time smaller when observing waking up late?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 3%. For nonsmokers, the probability of lung cancer is 51%. For smokers, the probability of lung cancer is 75%.
+Question: Is lung cancer more likely than absence of lung cancer overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 3%. The probability of nonsmoking and lung cancer is 22%. The probability of smoking and lung cancer is 1%.
+Question: Is the chance of lung cancer smaller when observing smoking?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking the elevator is 36%. The probability of taking the stairs and penguin death is 48%. The probability of taking the elevator and penguin death is 21%.
+Question: Is the chance of penguin death larger when observing taking the elevator?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 60%. For patients not receiving treatment, the probability of recovery is 67%. For patients receiving treatment, the probability of recovery is 37%.
+Question: Is recovery more likely than non-recovery overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the camper lighting a match is 25%. For campers who do not light a match, the probability of the forest on fire is 24%. For campers who light a match, the probability of the forest on fire is 68%.
+Question: Is the forest on fire less likely than the forest not on fire overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of high hospital bill is 53%. For patients who pay a low hospital bill, the probability of recovery is 60%. For people who pay a high hospital bill, the probability of recovery is 30%.
+Question: Is recovery less likely than non-recovery overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 51%. The probability of receives no treatment and recovery is 33%. The probability of receives treatment and recovery is 12%.
+Question: Is the chance of recovery larger when observing receives treatment?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of rainy season is 16%. For people in the dry season, the probability of wet ground is 36%. For in the rainy season, the probability of wet ground is 46%.
+Question: Is wet ground more likely than dry ground overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 41%. The probability of non-male gender and high salary is 13%. The probability of male gender and high salary is 17%.
+Question: Is the chance of high salary larger when observing male gender?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 57%. The probability of receives no treatment and recovery is 26%. The probability of receives treatment and recovery is 23%.
+Question: Is the chance of recovery larger when observing receives treatment?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of vaccination is 72%. The probability of lack of vaccination and smallpox survival is 13%. The probability of vaccination and smallpox survival is 34%.
+Question: Is the chance of smallpox survival smaller when observing vaccination?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 7%. For people without a college degree, the probability of high salary is 45%. For people with a college degree or higher, the probability of high salary is 56%.
+Question: Is high salary less likely than low salary overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of clean water is 61%. The probability of polluted water and cholera contraction is 24%. The probability of clean water and cholera contraction is 15%.
+Question: Is the chance of cholera contraction smaller when observing clean water?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of obesity is 14%. The probability of normal weight and long lifespan is 55%. The probability of obesity and long lifespan is 4%.
+Question: Is the chance of long lifespan larger when observing obesity?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking gene is 18%. The probability of nonsmoking gene and lung cancer is 33%. The probability of smoking gene and lung cancer is 10%.
+Question: Is the chance of lung cancer smaller when observing smoking gene?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of kindness is 98%. For people with mean personalities and single people, the probability of attractive appearance is 44%. For people with mean personalities and in a relationship, the probability of attractive appearance is 75%. For people with kind personalities and single people, the probability of attractive appearance is 28%. For people with kind personalities and in a relationship, the probability of attractive appearance is 71%.
+Question: If we look at people in a relationship, does the chance of attractive appearance increase when kindness?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking the elevator is 53%. The probability of taking the stairs and penguin death is 40%. The probability of taking the elevator and penguin death is 38%.
+Question: Is the chance of penguin death smaller when observing taking the elevator?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the captain's order to execute the prisoner is 55%. For captains who release prisoners, the probability of the prisoner's death is 35%. For captains who execute prisoners, the probability of the prisoner's death is 75%.
+Question: Is the prisoner's death more likely than the prisoner being alive overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 52%. For nonsmokers, the probability of lung cancer is 65%. For smokers, the probability of lung cancer is 72%.
+Question: Is lung cancer more likely than absence of lung cancer overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of blowing out the candle is 27%. For people not blowing out candles, the probability of dark room is 29%. For people who blow out candles, the probability of dark room is 63%.
+Question: Is dark room less likely than bright room overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of high hospital bill is 57%. The probability of low hospital bill and recovery is 28%. The probability of high hospital bill and recovery is 10%.
+Question: Is the chance of recovery smaller when observing high hospital bill?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of alarm set by husband is 80%. For husbands that don't set the alarm, the probability of ringing alarm is 26%. For husbands that set the alarm, the probability of ringing alarm is 85%.
+Question: Is ringing alarm less likely than silent alarm overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 3%. For nonsmokers, the probability of lung cancer is 23%. For smokers, the probability of lung cancer is 39%.
+Question: Is lung cancer more likely than absence of lung cancer overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of attractive appearance is 44%. For people considered unattractive, the probability of talent is 2%. For people considered attractive, the probability of talent is 2%.
+Question: Is talent less likely than lack of talent overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of waking up late is 45%. For days when Alice wakes up on time, the probability of arriving to school on time is 68%. For days when Alice wakes up late, the probability of arriving to school on time is 31%.
+Question: Is arriving to school on time more likely than arriving to school late overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of citrus intake is 83%. The probability of absence of citrus and scurvy is 8%. The probability of citrus intake and scurvy is 17%.
+Question: Is the chance of scurvy smaller when observing citrus intake?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of blowing out the candle is 27%. The probability of not blowing out the candle and dark room is 21%. The probability of blowing out the candle and dark room is 17%.
+Question: Is the chance of dark room smaller when observing blowing out the candle?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of talent is 17%. The probability of lack of talent and being hard-working is 1%. The probability of talent and being hard-working is 0%.
+Question: Is the chance of being hard-working larger when observing talent?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of getting the vaccine is 50%. For people refusing the vaccine, the probability of recovering from the disease is 55%. For people getting the vaccine, the probability of recovering from the disease is 37%.
+Question: Is recovering from the disease more likely than dying from the disease overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 3%. The probability of nonsmoking and lung cancer is 49%. The probability of smoking and lung cancer is 2%.
+Question: Is the chance of lung cancer larger when observing smoking?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of vaccination is 97%. For unvaccinated individuals, the probability of smallpox survival is 42%. For vaccinated individuals, the probability of smallpox survival is 48%.
+Question: Is smallpox survival more likely than smallpox death overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking of all assigned drugs is 66%. The probability of not taking of any assigned drugs and low cholesterol is 17%. The probability of taking of all assigned drugs and low cholesterol is 57%.
+Question: Is the chance of low cholesterol smaller when observing taking of all assigned drugs?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of increased supply is 57%. The probability of reduced supply and increased price is 32%. The probability of increased supply and increased price is 19%.
+Question: Is the chance of increased price smaller when observing increased supply?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of encouragement is 7%. The probability of discouragement and high exam score is 26%. The probability of encouragement and high exam score is 5%.
+Question: Is the chance of high exam score smaller when observing encouragement?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking the elevator is 36%. The probability of taking the stairs and penguin death is 48%. The probability of taking the elevator and penguin death is 21%.
+Question: Is the chance of penguin death smaller when observing taking the elevator?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of waking up late is 58%. The probability of waking up on time and arriving to school on time is 25%. The probability of waking up late and arriving to school on time is 15%.
+Question: Is the chance of arriving to school on time larger when observing waking up late?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 52%. The probability of high school degree or lower and high salary is 7%. The probability of college degree or higher and high salary is 32%.
+Question: Is the chance of high salary smaller when observing college degree or higher?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 40%. The probability of non-male gender and admission acceptance is 31%. The probability of male gender and admission acceptance is 27%.
+Question: Is the chance of admission acceptance smaller when observing male gender?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of attractive appearance is 44%. For people considered unattractive and are not famous, the probability of talent is 1%. For people considered unattractive and are famous, the probability of talent is 3%. For people considered attractive and are not famous, the probability of talent is 0%. For people considered attractive and are famous, the probability of talent is 2%.
+Question: If we look at people who are famous, does the chance of talent increase when attractive appearance?",no,,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 61%. The probability of nonsmoking mother and normal infant birth weight is 18%. The probability of smoking mother and normal infant birth weight is 9%.
+Question: Is the chance of normal infant birth weight smaller when observing smoking mother?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of respiratory issues is 57%. For people with no respiratory issues, the probability of broken bones is 10%. For people with respiratory issues, the probability of broken bones is 10%.
+Question: Is broken bones more likely than no broken bones overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of waking up late is 58%. For days when Alice wakes up on time, the probability of arriving to school on time is 60%. For days when Alice wakes up late, the probability of arriving to school on time is 26%.
+Question: Is arriving to school on time less likely than arriving to school late overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 57%. The probability of receives no treatment and recovery is 26%. The probability of receives treatment and recovery is 23%.
+Question: Is the chance of recovery smaller when observing receives treatment?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of obesity is 14%. The probability of normal weight and long lifespan is 55%. The probability of obesity and long lifespan is 4%.
+Question: Is the chance of long lifespan smaller when observing obesity?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 17%. The probability of nonsmoking and college admission is 48%. The probability of smoking and college admission is 6%.
+Question: Is the chance of college admission larger when observing smoking?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of tanning salon treatment is 2%. The probability of no tanning salon treatment and tanned skin is 23%. The probability of tanning salon treatment and tanned skin is 2%.
+Question: Is the chance of tanned skin larger when observing tanning salon treatment?",yes,No,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 34%. For infants with nonsmoking mothers, the probability of normal infant birth weight is 65%. For infants with smoking mothers, the probability of normal infant birth weight is 24%.
+Question: Is normal infant birth weight more likely than low infant birth weight overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking medication is 84%. The probability of not taking medication and healthy heart is 7%. The probability of taking medication and healthy heart is 76%.
+Question: Is the chance of healthy heart smaller when observing taking medication?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of rainy season is 18%. The probability of dry season and wet ground is 41%. The probability of rainy season and wet ground is 11%.
+Question: Is the chance of wet ground larger when observing rainy season?",yes,No,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of clean water is 41%. For people with only polluted water, the probability of cholera contraction is 69%. For people with access to clean water, the probability of cholera contraction is 41%.
+Question: Is cholera contraction more likely than cholera prevention overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of attractive appearance is 44%. For people considered unattractive and are not famous, the probability of talent is 12%. For people considered unattractive and are famous, the probability of talent is 50%. For people considered attractive and are not famous, the probability of talent is 9%. For people considered attractive and are famous, the probability of talent is 25%.
+Question: If we look at people who are famous, does the chance of talent increase when attractive appearance?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 41%. For patients not receiving treatment, the probability of recovery is 68%. For patients receiving treatment, the probability of recovery is 36%.
+Question: Is recovery less likely than non-recovery overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 60%. The probability of receives no treatment and recovery is 27%. The probability of receives treatment and recovery is 22%.
+Question: Is the chance of recovery larger when observing receives treatment?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 60%. For patients not receiving treatment, the probability of recovery is 67%. For patients receiving treatment, the probability of recovery is 37%.
+Question: Is recovery less likely than non-recovery overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 40%. For individuals who are not male, the probability of admission acceptance is 53%. For individuals who are male, the probability of admission acceptance is 66%.
+Question: Is admission acceptance more likely than admission rejection overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of attractive appearance is 44%. For people considered unattractive, the probability of talent is 18%. For people considered attractive, the probability of talent is 18%.
+Question: Is talent more likely than lack of talent overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 52%. The probability of nonsmoking and lung cancer is 31%. The probability of smoking and lung cancer is 37%.
+Question: Is the chance of lung cancer larger when observing smoking?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of encouragement is 46%. For students who are not encouraged, the probability of high exam score is 37%. For students who are encouraged, the probability of high exam score is 74%.
+Question: Is high exam score more likely than low exam score overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking gene is 18%. For people with nonsmoking genes, the probability of lung cancer is 41%. For people with smoking genes, the probability of lung cancer is 52%.
+Question: Is lung cancer less likely than absence of lung cancer overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of waking up late is 58%. For days when Alice wakes up on time, the probability of arriving to school on time is 60%. For days when Alice wakes up late, the probability of arriving to school on time is 26%.
+Question: Is arriving to school on time more likely than arriving to school late overall?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 12%. For infants with nonsmoking mothers, the probability of high infant mortality is 28%. For infants with smoking mothers, the probability of high infant mortality is 65%.
+Question: Is high infant mortality less likely than low infant mortality overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of manager signing the termination letter is 23%. The probability of manager not signing the termination letter and employee being fired is 21%. The probability of manager signing the termination letter and employee being fired is 16%.
+Question: Is the chance of employee being fired larger when observing manager signing the termination letter?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of talent is 41%. For students who are not talented and rejected from elite institutions, the probability of being hard-working is 39%. For students who are not talented and accepted to elite institutions, the probability of being hard-working is 69%. For students who are talented and rejected from elite institutions, the probability of being hard-working is 29%. For students who are talented and accepted to elite institutions, the probability of being hard-working is 61%.
+Question: If we look at students accepted to elite institutions, does the chance of being hard-working increase when talent?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 51%. The probability of high school degree or lower and high salary is 18%. The probability of college degree or higher and high salary is 34%.
+Question: Is the chance of high salary smaller when observing college degree or higher?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of respiratory issues is 57%. For people with no respiratory issues and non-hospitalized individuals, the probability of broken bones is 5%. For people with no respiratory issues and hospitalized individuals, the probability of broken bones is 21%. For people with respiratory issues and non-hospitalized individuals, the probability of broken bones is 6%. For people with respiratory issues and hospitalized individuals, the probability of broken bones is 28%.
+Question: If we look at hospitalized individuals, does the chance of broken bones increase when respiratory issues?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of rainy season is 16%. The probability of dry season and wet ground is 30%. The probability of rainy season and wet ground is 7%.
+Question: Is the chance of wet ground smaller when observing rainy season?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of attractive appearance is 44%. For people considered unattractive, the probability of talent is 2%. For people considered attractive, the probability of talent is 2%.
+Question: Is talent more likely than lack of talent overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the captain's order to execute the prisoner is 55%. For captains who release prisoners, the probability of the prisoner's death is 35%. For captains who execute prisoners, the probability of the prisoner's death is 75%.
+Question: Is the prisoner's death less likely than the prisoner being alive overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking of all assigned drugs is 53%. For patients that have not taken any drugs, the probability of low cholesterol is 57%. For patients that have taken all assigned drugs, the probability of low cholesterol is 45%.
+Question: Is low cholesterol more likely than high cholesterol overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of talent is 41%. The probability of lack of talent and being hard-working is 32%. The probability of talent and being hard-working is 22%.
+Question: Is the chance of being hard-working smaller when observing talent?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of tanning salon treatment is 2%. For people not using tanning salon treatments, the probability of tanned skin is 24%. For people who went to tanning salons, the probability of tanned skin is 76%.
+Question: Is tanned skin less likely than pale skin overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking medication is 84%. The probability of not taking medication and healthy heart is 7%. The probability of taking medication and healthy heart is 76%.
+Question: Is the chance of healthy heart larger when observing taking medication?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of clean water is 41%. The probability of polluted water and cholera contraction is 41%. The probability of clean water and cholera contraction is 17%.
+Question: Is the chance of cholera contraction smaller when observing clean water?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 88%. For nonsmokers, the probability of college admission is 66%. For smokers, the probability of college admission is 56%.
+Question: Is college admission more likely than college rejection overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the camper lighting a match is 98%. The probability of the camper not lighting a match and the forest on fire is 2%. The probability of the camper lighting a match and the forest on fire is 55%.
+Question: Is the chance of the forest on fire larger when observing the camper lighting a match?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of tanning salon treatment is 90%. For people not using tanning salon treatments, the probability of tanned skin is 62%. For people who went to tanning salons, the probability of tanned skin is 19%.
+Question: Is tanned skin more likely than pale skin overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 86%. The probability of nonsmoking and college admission is 6%. The probability of smoking and college admission is 23%.
+Question: Is the chance of college admission smaller when observing smoking?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of getting the vaccine is 53%. For people refusing the vaccine, the probability of recovering from the disease is 33%. For people getting the vaccine, the probability of recovering from the disease is 71%.
+Question: Is recovering from the disease more likely than dying from the disease overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking medication is 3%. The probability of not taking medication and healthy heart is 82%. The probability of taking medication and healthy heart is 1%.
+Question: Is the chance of healthy heart larger when observing taking medication?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 54%. The probability of receives no treatment and recovery is 17%. The probability of receives treatment and recovery is 31%.
+Question: Is the chance of recovery smaller when observing receives treatment?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the captain's order to execute the prisoner is 12%. The probability of the captain's order to release the prisoner and the prisoner's death is 18%. The probability of the captain's order to execute the prisoner and the prisoner's death is 8%.
+Question: Is the chance of the prisoner's death smaller when observing the captain's order to execute the prisoner?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of respiratory issues is 95%. For people with no respiratory issues, the probability of broken bones is 81%. For people with respiratory issues, the probability of broken bones is 81%.
+Question: Is broken bones more likely than no broken bones overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of citrus intake is 11%. The probability of absence of citrus and scurvy is 63%. The probability of citrus intake and scurvy is 6%.
+Question: Is the chance of scurvy smaller when observing citrus intake?",yes,No,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 18%. For people without a college degree, the probability of high salary is 50%. For people with a college degree or higher, the probability of high salary is 11%.
+Question: Is high salary more likely than low salary overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of alarm set by husband is 3%. The probability of alarm not set by husband and ringing alarm is 72%. The probability of alarm set by husband and ringing alarm is 1%.
+Question: Is the chance of ringing alarm larger when observing alarm set by husband?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 81%. For people without a college degree, the probability of high salary is 15%. For people with a college degree or higher, the probability of high salary is 44%.
+Question: Is high salary more likely than low salary overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of high hospital bill is 32%. For patients who pay a low hospital bill, the probability of recovery is 38%. For people who pay a high hospital bill, the probability of recovery is 69%.
+Question: Is recovery more likely than non-recovery overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of blowing out the candle is 1%. The probability of not blowing out the candle and dark room is 81%. The probability of blowing out the candle and dark room is 0%.
+Question: Is the chance of dark room larger when observing blowing out the candle?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of intelligent parents is 20%. For children with unintelligent parents, the probability of intelligent child is 63%. For children with intelligent parents, the probability of intelligent child is 45%.
+Question: Is intelligent child less likely than unintelligent child overall?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking the elevator is 16%. For those who choose to take the stairs, the probability of penguin death is 88%. For those who choose to take the elevator, the probability of penguin death is 41%.
+Question: Is penguin death less likely than penguin lives overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the camper lighting a match is 95%. The probability of the camper not lighting a match and the forest on fire is 4%. The probability of the camper lighting a match and the forest on fire is 62%.
+Question: Is the chance of the forest on fire larger when observing the camper lighting a match?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 92%. The probability of nonsmoking mother and high infant mortality is 5%. The probability of smoking mother and high infant mortality is 36%.
+Question: Is the chance of high infant mortality larger when observing smoking mother?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of getting the vaccine is 53%. The probability of vaccine refusal and recovering from the disease is 16%. The probability of getting the vaccine and recovering from the disease is 38%.
+Question: Is the chance of recovering from the disease smaller when observing getting the vaccine?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of kindness is 15%. For people with mean personalities, the probability of attractive appearance is 7%. For people with kind personalities, the probability of attractive appearance is 7%.
+Question: Is attractive appearance less likely than unattractive appearance overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 89%. For infants with nonsmoking mothers, the probability of high infant mortality is 70%. For infants with smoking mothers, the probability of high infant mortality is 42%.
+Question: Is high infant mortality less likely than low infant mortality overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of obesity is 81%. The probability of normal weight and long lifespan is 8%. The probability of obesity and long lifespan is 56%.
+Question: Is the chance of long lifespan smaller when observing obesity?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of manager signing the termination letter is 36%. For managers who don't sign termination letters, the probability of employee being fired is 80%. For managers who sign termination letters, the probability of employee being fired is 37%.
+Question: Is employee being fired more likely than employee not being fired overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of manager signing the termination letter is 36%. The probability of manager not signing the termination letter and employee being fired is 52%. The probability of manager signing the termination letter and employee being fired is 13%.
+Question: Is the chance of employee being fired smaller when observing manager signing the termination letter?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the camper lighting a match is 95%. For campers who do not light a match, the probability of the forest on fire is 84%. For campers who light a match, the probability of the forest on fire is 65%.
+Question: Is the forest on fire less likely than the forest not on fire overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 52%. For patients not receiving treatment, the probability of recovery is 24%. For patients receiving treatment, the probability of recovery is 69%.
+Question: Is recovery more likely than non-recovery overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 50%. The probability of nonsmoking and lung cancer is 19%. The probability of smoking and lung cancer is 28%.
+Question: Is the chance of lung cancer smaller when observing smoking?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 53%. The probability of receives no treatment and recovery is 17%. The probability of receives treatment and recovery is 40%.
+Question: Is the chance of recovery smaller when observing receives treatment?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 40%. The probability of nonsmoking mother and normal infant birth weight is 17%. The probability of smoking mother and normal infant birth weight is 25%.
+Question: Is the chance of normal infant birth weight smaller when observing smoking mother?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of alarm set by husband is 10%. For husbands that don't set the alarm, the probability of ringing alarm is 78%. For husbands that set the alarm, the probability of ringing alarm is 32%.
+Question: Is ringing alarm less likely than silent alarm overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of college degree or higher is 84%. For people without a college degree, the probability of high salary is 40%. For people with a college degree or higher, the probability of high salary is 53%.
+Question: Is high salary more likely than low salary overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of increased supply is 77%. The probability of reduced supply and increased price is 9%. The probability of increased supply and increased price is 50%.
+Question: Is the chance of increased price smaller when observing increased supply?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of respiratory issues is 95%. The probability of no respiratory issues and broken bones is 4%. The probability of respiratory issues and broken bones is 77%.
+Question: Is the chance of broken bones smaller when observing respiratory issues?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of respiratory issues is 95%. For people with no respiratory issues and non-hospitalized individuals, the probability of broken bones is 93%. For people with no respiratory issues and hospitalized individuals, the probability of broken bones is 63%. For people with respiratory issues and non-hospitalized individuals, the probability of broken bones is 87%. For people with respiratory issues and hospitalized individuals, the probability of broken bones is 50%.
+Question: If we look at hospitalized individuals, does the chance of broken bones increase when respiratory issues?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of blowing out the candle is 19%. The probability of not blowing out the candle and dark room is 73%. The probability of blowing out the candle and dark room is 11%.
+Question: Is the chance of dark room smaller when observing blowing out the candle?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 2%. For individuals who are not male, the probability of admission acceptance is 82%. For individuals who are male, the probability of admission acceptance is 39%.
+Question: Is admission acceptance more likely than admission rejection overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of respiratory issues is 58%. For people with no respiratory issues and non-hospitalized individuals, the probability of broken bones is 100%. For people with no respiratory issues and hospitalized individuals, the probability of broken bones is 85%. For people with respiratory issues and non-hospitalized individuals, the probability of broken bones is 96%. For people with respiratory issues and hospitalized individuals, the probability of broken bones is 80%.
+Question: If we look at hospitalized individuals, does the chance of broken bones decrease when respiratory issues?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking of all assigned drugs is 34%. For patients that have not taken any drugs, the probability of low cholesterol is 60%. For patients that have taken all assigned drugs, the probability of low cholesterol is 56%.
+Question: Is low cholesterol less likely than high cholesterol overall?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 55%. For patients not receiving treatment, the probability of recovery is 40%. For patients receiving treatment, the probability of recovery is 81%.
+Question: Is recovery more likely than non-recovery overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 52%. The probability of receives no treatment and recovery is 12%. The probability of receives treatment and recovery is 36%.
+Question: Is the chance of recovery larger when observing receives treatment?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of clean water is 40%. The probability of polluted water and cholera contraction is 18%. The probability of clean water and cholera contraction is 25%.
+Question: Is the chance of cholera contraction smaller when observing clean water?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of tanning salon treatment is 92%. For people not using tanning salon treatments, the probability of tanned skin is 71%. For people who went to tanning salons, the probability of tanned skin is 28%.
+Question: Is tanned skin less likely than pale skin overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking of all assigned drugs is 43%. The probability of not taking of any assigned drugs and low cholesterol is 16%. The probability of taking of all assigned drugs and low cholesterol is 30%.
+Question: Is the chance of low cholesterol larger when observing taking of all assigned drugs?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the captain's order to execute the prisoner is 58%. For captains who release prisoners, the probability of the prisoner's death is 13%. For captains who execute prisoners, the probability of the prisoner's death is 64%.
+Question: Is the prisoner's death more likely than the prisoner being alive overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 89%. For individuals who are not male, the probability of high salary is 35%. For individuals who are male, the probability of high salary is 52%.
+Question: Is high salary more likely than low salary overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of encouragement is 89%. The probability of discouragement and high exam score is 7%. The probability of encouragement and high exam score is 46%.
+Question: Is the chance of high exam score larger when observing encouragement?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of obesity is 81%. For normal weight people, the probability of long lifespan is 45%. For obese people, the probability of long lifespan is 69%.
+Question: Is long lifespan more likely than short lifespan overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of kindness is 80%. For people with mean personalities and single people, the probability of attractive appearance is 91%. For people with mean personalities and in a relationship, the probability of attractive appearance is 75%. For people with kind personalities and single people, the probability of attractive appearance is 87%. For people with kind personalities and in a relationship, the probability of attractive appearance is 69%.
+Question: If we look at people in a relationship, does the chance of attractive appearance decrease when kindness?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of attractive appearance is 83%. For people considered unattractive, the probability of talent is 88%. For people considered attractive, the probability of talent is 88%.
+Question: Is talent less likely than lack of talent overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking gene is 91%. For people with nonsmoking genes, the probability of lung cancer is 81%. For people with smoking genes, the probability of lung cancer is 61%.
+Question: Is lung cancer less likely than absence of lung cancer overall?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of attractive appearance is 83%. For people considered unattractive, the probability of talent is 88%. For people considered attractive, the probability of talent is 88%.
+Question: Is talent more likely than lack of talent overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of waking up late is 11%. For days when Alice wakes up on time, the probability of arriving to school on time is 48%. For days when Alice wakes up late, the probability of arriving to school on time is 80%.
+Question: Is arriving to school on time less likely than arriving to school late overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of obesity is 85%. The probability of normal weight and long lifespan is 6%. The probability of obesity and long lifespan is 49%.
+Question: Is the chance of long lifespan larger when observing obesity?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the captain's order to execute the prisoner is 12%. For captains who release prisoners, the probability of the prisoner's death is 21%. For captains who execute prisoners, the probability of the prisoner's death is 64%.
+Question: Is the prisoner's death less likely than the prisoner being alive overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of encouragement is 89%. For students who are not encouraged, the probability of high exam score is 58%. For students who are encouraged, the probability of high exam score is 52%.
+Question: Is high exam score less likely than low exam score overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 4%. For individuals who are not male, the probability of admission acceptance is 66%. For individuals who are male, the probability of admission acceptance is 59%.
+Question: Is admission acceptance more likely than admission rejection overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking is 88%. For nonsmokers, the probability of college admission is 66%. For smokers, the probability of college admission is 56%.
+Question: Is college admission less likely than college rejection overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of tanning salon treatment is 90%. The probability of no tanning salon treatment and tanned skin is 6%. The probability of tanning salon treatment and tanned skin is 17%.
+Question: Is the chance of tanned skin larger when observing tanning salon treatment?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of encouragement is 89%. For students who are not encouraged, the probability of high exam score is 58%. For students who are encouraged, the probability of high exam score is 52%.
+Question: Is high exam score more likely than low exam score overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of vaccination is 9%. The probability of lack of vaccination and smallpox survival is 56%. The probability of vaccination and smallpox survival is 6%.
+Question: Is the chance of smallpox survival larger when observing vaccination?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of kindness is 80%. For people with mean personalities and single people, the probability of attractive appearance is 91%. For people with mean personalities and in a relationship, the probability of attractive appearance is 75%. For people with kind personalities and single people, the probability of attractive appearance is 87%. For people with kind personalities and in a relationship, the probability of attractive appearance is 69%.
+Question: If we look at people in a relationship, does the chance of attractive appearance increase when kindness?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of rainy season is 90%. The probability of dry season and wet ground is 5%. The probability of rainy season and wet ground is 58%.
+Question: Is the chance of wet ground smaller when observing rainy season?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 25%. For infants with nonsmoking mothers, the probability of normal infant birth weight is 58%. For infants with smoking mothers, the probability of normal infant birth weight is 98%.
+Question: Is normal infant birth weight less likely than low infant birth weight overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the camper lighting a match is 98%. For campers who do not light a match, the probability of the forest on fire is 98%. For campers who light a match, the probability of the forest on fire is 56%.
+Question: Is the forest on fire more likely than the forest not on fire overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of kindness is 80%. For people with mean personalities, the probability of attractive appearance is 82%. For people with kind personalities, the probability of attractive appearance is 82%.
+Question: Is attractive appearance more likely than unattractive appearance overall?",yes,No,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 86%. The probability of non-male gender and admission acceptance is 11%. The probability of male gender and admission acceptance is 41%.
+Question: Is the chance of admission acceptance larger when observing male gender?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of blowing out the candle is 19%. For people not blowing out candles, the probability of dark room is 89%. For people who blow out candles, the probability of dark room is 59%.
+Question: Is dark room less likely than bright room overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of waking up late is 4%. The probability of waking up on time and arriving to school on time is 48%. The probability of waking up late and arriving to school on time is 3%.
+Question: Is the chance of arriving to school on time smaller when observing waking up late?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of respiratory issues is 58%. For people with no respiratory issues, the probability of broken bones is 91%. For people with respiratory issues, the probability of broken bones is 91%.
+Question: Is broken bones more likely than no broken bones overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of waking up late is 11%. The probability of waking up on time and arriving to school on time is 43%. The probability of waking up late and arriving to school on time is 9%.
+Question: Is the chance of arriving to school on time larger when observing waking up late?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 40%. The probability of nonsmoking mother and normal infant birth weight is 17%. The probability of smoking mother and normal infant birth weight is 25%.
+Question: Is the chance of normal infant birth weight larger when observing smoking mother?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the captain's order to execute the prisoner is 58%. The probability of the captain's order to release the prisoner and the prisoner's death is 5%. The probability of the captain's order to execute the prisoner and the prisoner's death is 37%.
+Question: Is the chance of the prisoner's death smaller when observing the captain's order to execute the prisoner?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of citrus intake is 15%. For patients not consuming citrus, the probability of scurvy is 65%. For patients consuming citrus, the probability of scurvy is 41%.
+Question: Is scurvy more likely than no scurvy overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of kindness is 80%. The probability of meanness and attractive appearance is 16%. The probability of kindness and attractive appearance is 66%.
+Question: Is the chance of attractive appearance larger when observing kindness?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of citrus intake is 11%. For patients not consuming citrus, the probability of scurvy is 71%. For patients consuming citrus, the probability of scurvy is 55%.
+Question: Is scurvy less likely than no scurvy overall?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of waking up late is 11%. The probability of waking up on time and arriving to school on time is 43%. The probability of waking up late and arriving to school on time is 9%.
+Question: Is the chance of arriving to school on time smaller when observing waking up late?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking gene is 86%. For people with nonsmoking genes, the probability of lung cancer is 59%. For people with smoking genes, the probability of lung cancer is 73%.
+Question: Is lung cancer more likely than absence of lung cancer overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of the camper lighting a match is 98%. The probability of the camper not lighting a match and the forest on fire is 2%. The probability of the camper lighting a match and the forest on fire is 55%.
+Question: Is the chance of the forest on fire smaller when observing the camper lighting a match?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking the elevator is 16%. The probability of taking the stairs and penguin death is 74%. The probability of taking the elevator and penguin death is 7%.
+Question: Is the chance of penguin death smaller when observing taking the elevator?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking the elevator is 16%. The probability of taking the stairs and penguin death is 74%. The probability of taking the elevator and penguin death is 7%.
+Question: Is the chance of penguin death larger when observing taking the elevator?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 15%. The probability of non-male gender and high salary is 45%. The probability of male gender and high salary is 8%.
+Question: Is the chance of high salary larger when observing male gender?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking gene is 91%. The probability of nonsmoking gene and lung cancer is 8%. The probability of smoking gene and lung cancer is 56%.
+Question: Is the chance of lung cancer larger when observing smoking gene?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of getting the vaccine is 46%. For people refusing the vaccine, the probability of recovering from the disease is 37%. For people getting the vaccine, the probability of recovering from the disease is 68%.
+Question: Is recovering from the disease more likely than dying from the disease overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of vaccination is 9%. For unvaccinated individuals, the probability of smallpox survival is 62%. For vaccinated individuals, the probability of smallpox survival is 61%.
+Question: Is smallpox survival less likely than smallpox death overall?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of alarm set by husband is 3%. The probability of alarm not set by husband and ringing alarm is 72%. The probability of alarm set by husband and ringing alarm is 1%.
+Question: Is the chance of ringing alarm smaller when observing alarm set by husband?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of high hospital bill is 32%. The probability of low hospital bill and recovery is 25%. The probability of high hospital bill and recovery is 22%.
+Question: Is the chance of recovery larger when observing high hospital bill?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of clean water is 40%. The probability of polluted water and cholera contraction is 18%. The probability of clean water and cholera contraction is 25%.
+Question: Is the chance of cholera contraction larger when observing clean water?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of receives treatment is 54%. For patients not receiving treatment, the probability of recovery is 38%. For patients receiving treatment, the probability of recovery is 58%.
+Question: Is recovery less likely than non-recovery overall?",yes,No,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of rainy season is 93%. The probability of dry season and wet ground is 2%. The probability of rainy season and wet ground is 37%.
+Question: Is the chance of wet ground larger when observing rainy season?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of high hospital bill is 46%. For patients who pay a low hospital bill, the probability of recovery is 20%. For people who pay a high hospital bill, the probability of recovery is 63%.
+Question: Is recovery less likely than non-recovery overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of tanning salon treatment is 92%. The probability of no tanning salon treatment and tanned skin is 6%. The probability of tanning salon treatment and tanned skin is 25%.
+Question: Is the chance of tanned skin larger when observing tanning salon treatment?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of male gender is 86%. For individuals who are not male, the probability of admission acceptance is 78%. For individuals who are male, the probability of admission acceptance is 47%.
+Question: Is admission acceptance more likely than admission rejection overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of high hospital bill is 32%. The probability of low hospital bill and recovery is 25%. The probability of high hospital bill and recovery is 22%.
+Question: Is the chance of recovery smaller when observing high hospital bill?",no,No,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 92%. For infants with nonsmoking mothers, the probability of high infant mortality is 57%. For infants with smoking mothers, the probability of high infant mortality is 39%.
+Question: Is high infant mortality less likely than low infant mortality overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of smoking mother is 89%. The probability of nonsmoking mother and high infant mortality is 7%. The probability of smoking mother and high infant mortality is 37%.
+Question: Is the chance of high infant mortality smaller when observing smoking mother?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of kindness is 15%. For people with mean personalities and single people, the probability of attractive appearance is 18%. For people with mean personalities and in a relationship, the probability of attractive appearance is 5%. For people with kind personalities and single people, the probability of attractive appearance is 11%. For people with kind personalities and in a relationship, the probability of attractive appearance is 3%.
+Question: If we look at people in a relationship, does the chance of attractive appearance decrease when kindness?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of taking the elevator is 16%. For those who choose to take the stairs, the probability of penguin death is 88%. For those who choose to take the elevator, the probability of penguin death is 41%.
+Question: Is penguin death more likely than penguin lives overall?",yes,Yes,True
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of getting the vaccine is 53%. For people refusing the vaccine, the probability of recovering from the disease is 33%. For people getting the vaccine, the probability of recovering from the disease is 71%.
+Question: Is recovering from the disease less likely than dying from the disease overall?",no,Yes,False
+"You are a world-class AI system, capable of complex causal reasoning and reflection. Use your knowledge to deeply infer the relationships among variables. Reason through the query inside <thinking> tags and provide your final response inside <output> tags.
+
+If you detect any mistakes in your reasoning at any point, correct yourself inside <reflection> tags.
+
+Given Info: The overall probability of encouragement is 99%. For students who are not encouraged, the probability of high exam score is 64%. For students who are encouraged, the probability of high exam score is 39%.
+Question: Is high exam score less likely than low exam score overall?",yes,Yes,True
