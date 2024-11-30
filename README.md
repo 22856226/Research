@@ -88,7 +88,7 @@ Each model's responses demonstrate the progressive improvement in causal reasoni
 
 ## Code Files
 
-The repository includes three Jupyter Notebooks: Prepares the datasets, including graph nodes, edges, and prompt generation And deploys the models and configures them for testing.
+The repository includes Two Jupyter Notebooks: Deploys the models and configures them for testing.
 
 
 
