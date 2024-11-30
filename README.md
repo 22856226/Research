@@ -1,86 +1,115 @@
-# Evaluating the Performance of LLMs in Causal Reasoning Using Causal Graphs
+# Benchmark and Enhancement Framework for Causal Understanding in LLMs
+
+## Overview
+
+This repository provides the datasets, prompt files, and code used to evaluate and enhance the causal reasoning abilities of Large Language Models (LLMs). The project focuses on leveraging **Directed Acyclic Graphs (DAGs)** and structured fine-tuning to test and improve the causal reasoning capabilities of LLMs.
+
+The framework is divided into three main contributions:
+
+1. Development of a benchmark dataset grounded in causal graph principles.
+2. Structured fine-tuning with instruction-based prompts to enhance reasoning capabilities.
+3. Evaluation using the CLADDER dataset, reformatted for structural testing.
+
+---
+
+## Datasets
+
+The dataset includes the following files:
+
+1. **`ground_truth_nodes.csv`**  
+   Contains the nodes of the DAGs used in the benchmark.
+
+2. **`ground_truth_edge.csv`**  
+   Contains the direct causal edges from the DAGs, serving as the ground truth for causal relationships.
+
+3. **`edges_with_collider.csv`**  
+   Edges representing collider relationships extracted in Step 2 of our methodology by combining graph theory with direct edges.
+
+4. **`edges_with_confounder.csv`**  
+   Edges representing confounder relationships extracted using the same process.
+
+5. **`edges_with_mediation.csv`**  
+   Edges representing mediator relationships derived from the causal graphs.
+
+6. **`KnowledgeChallenge_Set.csv`**  
+   Atomic pairs containing:
+   - **Ground Truth Edges**: Correct causal relationships.
+   - **Incorrect Edges**: Misleading or incorrect relationships.  
+   This dataset is used to evaluate whether LLMs possess the foundational causal knowledge.
+
+---
+
+## Prompt Files
+
+### For Baseline Testing:
+- **`mediator_prompt.csv`**  
+- **`confounder_prompt.csv`**  
+- **`collider_prompt.csv`**  
+
+These files contain prompts to test the reasoning ability of LLMs by asking them to identify mediators, confounders, and colliders.
+
+### For Structured Fine-Tuning:
+- **`mediator_prompt1.csv`**  
+- **`confounder_prompt1.csv`**  
+- **`collider_prompt1.csv`**  
+
+These files are reformatted into **instruction-based prompts** containing:
+  - **<thinking>:** Guides step-by-step reasoning.
+  - **<reflection>:** Encourages error recognition and self-correction.
+  - **<output>:** Captures the final response.  
+
+After fine-tuning on a few examples, these structured prompts are used to test the causal reasoning abilities of LLMs.
+
+---
+
+## Evaluation Datasets
+
+### Rung 1, Rung 2, Rung 3  
+These files contain questions from the **CLADDER dataset** reformatted into our structural prompt format for testing advanced causal reasoning tasks. The dataset evaluates LLMs' performance on associational, interventional, and counterfactual reasoning tasks.
+
+---
+
+## Model Outputs
+
+The repository includes responses from each model tested:
+
+1. **`Gemma2_9B`**  
+   Represents the **vanilla model** performance without any fine-tuning.
+
+2. **`Gemma2_9B_Tuned_with_Pair_Knowledge`**  
+   Model fine-tuned using **atomic pairs** from `KnowledgeChallenge_Set.csv`.
+
+3. **`Gemma2_9B_reflection_tuning`**  
+   Model fine-tuned using from examples from the **instruction-based prompts** (`*_prompt1.csv`)   
+
+Each model's responses demonstrate the progressive improvement in causal reasoning capabilities.
+
+---
+
+## Code Files
+
+The repository includes three Jupyter Notebooks: Prepares the datasets, including graph nodes, edges, and prompt generation And deploys the models and configures them for testing.
 
 
-![Workflow Diagram](image/flowChart.png)  
-*Figure 1: Workflow Diagram*
 
-## Table of Contents
-- [Evaluating the Performance of LLMs in Causal Reasoning Using Causal Graphs](#evaluating-the-performance-of-llms-in-causal-reasoning-using-causal-graphs)
-  - [Table of Contents](#table-of-contents)
-  - [Data Composition](#data-composition)
-  - [Graph Structure](#graph-structure)
-    - [Pathophysiology → Pattern → Symptom](#pathophysiology--pattern--symptom)
-      - [Pathophysiology](#pathophysiology)
-      - [Pattern](#pattern)
-      - [Symptom](#symptom)
-  - [Experiment Overview](#experiment-overview)
-    - [Part 1: Dataset Creation](#part-1-dataset-creation)
-    - [Part 2: Testing Various Large Language Models](#part-2-testing-various-large-language-models)
-    - [Part 3: Enhancing Causal Reasoning in LLMs](#part-3-enhancing-causal-reasoning-in-llms)
-  - [Code Structure and Components](#code-structure-and-components)
-    - [Dataset](#dataset)
-    - [Model](#model)
+## Contributions
+
+### First Contribution
+- Creation of a benchmark dataset with over **2,000 causal structural questions**.
+- Testing LLMs' ability to identify mediators, confounders, and colliders using direct and constructed causal edges.
+
+### Second Contribution
+- Instruction-based fine-tuning with **few-shot learning**.
+- Structured prompts designed to improve reasoning through:
+  - Step-by-step guidance.
+  - Error recognition and self-correction.
+
+### Third Contribution
+- Evaluation using the **CLADDER dataset** reformatted into the structural prompt format.
+- Comparison with state-of-the-art models and methods.
 
 
 
-## Data Composition
-
-**Data Source:** NeurIPS 2019: Neuropathic Pain Diagnosis Simulator for Causal Discovery Algorithm Evaluation
-
-The data comprises over 200 variables and approximately 800 well-defined causal relationships from 141 patient diagnostic records, evaluated by physicians.
-
-![Graph Structure](image/graph_structure.png)  
-*Figure 2: Graph Structure*
 
 
-## Graph Structure
-The graph is divided into three levels:
 
-### Pathophysiology → Pattern → Symptom
-
-#### Pathophysiology
-- **Definition:** Pathophysiology is about the root cause of the condition.
-- **In the Diagram:** The pathophysiological diagnosis is "DLI C4-C5," indicating a discoligamentous injury at the C4-C5 level of the cervical spine.
-
-#### Pattern
-- **Definition:** A pattern refers to the distribution and localization of symptoms fitting a certain condition.
-- **In the Diagram:** Represented by "L C5-Radi" and "R C5-Radi," indicating radiculopathy at the C5 nerve root level.
-
-#### Symptom
-- **Definition:** Represents the actual experiences or complaints reported by the patient, caused by the pattern of the disease.
-- **In the Diagram:** Symptoms include pain or discomfort in specific areas like the neck, shoulder, and arm.
-
-## Experiment Overview
-
-### Part 1: Dataset Creation
-Constructed a dataset based on causal graphs specifically designed to test and train large language models (LLMs) on causal reasoning abilities. The dataset includes the following components:
-1. **Ground-Truth Knowledge**: Basic causal knowledge essential for reasoning tasks.
-2. **Collider**: Graphs structured as `A → B, C → B` to test understanding which one is the "collider."
-3. **Mediator**: Graphs with a mediator structure like `A → (B) → C` to evaluate the ability to reason through intermediate variables.
-4. **Confounder**: Graphs where `B → A, B → C` to assess recognition of confounding variables.
-
-### Part 2: Testing Various Large Language Models
-Tested the causal reasoning abilities of various LLMs, ranging from open-source models like Gemma2-9B and Gemma2-27B to proprietary models such as GPT-4 and Claude 3.5. The goal was to define the structure of prompts, standardize the output of answers, and explore ways to enhance LLM performance in causal reasoning tasks.
-
-### Part 3: Enhancing Causal Reasoning in LLMs
-This part focuses on improving LLMs’ causal reasoning capabilities, aiming to transform them into non-trivial models capable of providing better causal inference. The improvements were achieved through:
-- **Prompt Engineering**: Defining the structure of prompts and standardizing outputs to improve causal reasoning through better question formulation.
-- **Fine-Tuning**: Implementing two fine-tuning approaches:
-  1. **Training with Ground-Truth Knowledge**: Models were trained using ground-truth knowledge and then tested on other causal reasoning tasks.
-  2. **Enhanced Training**: Training with ground-truth knowledge followed by additional training with a small dataset focused on causal reasoning tasks.
-
-## Code Structure and Components
-
-### Dataset
-The dataset folder contains:
-- **Ground-Truth Edges and Nodes File**: This file defines the foundational causal relationships used to build causal graphs and assess the LLMs' knowledge.
-- **Edge File**: Contains variables that represent different causal graph structures. For example, in the mediator graph, there are three variables: `A`, `Mediator`, and `C`, which represent the causal relationships in that specific graph. Similarly, the file includes variables for confounder and collider graphs.
-- **Prompts File**: Generated by the data processing scripts, this file contains structured prompts that test the LLMs on different causal reasoning tasks. 
-
-Each causal graph comes in two forms: the original structure and the fine-tuned version, after applying instruction tuning.
-
-### Model
-The model folder contains:
-- **Pre-Trained and Fine-Tuned Models**: Includes pre-trained models (e.g., Gemma2-9B, Gemma2-27B) as well as those fine-tuned on the dataset.
-- **Model Results**: Each folder contains the performance results of the corresponding model,
-This revised README structure ensures that all relevant sections are clear, well-organized, and easy to navigate, making it a comprehensive guide for users and collaborators to understand the scope and details of your project.
